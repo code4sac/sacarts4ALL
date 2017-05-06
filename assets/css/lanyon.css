@@ -98,6 +98,12 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
+  
+ background-image: url('../images/bkgdHeader675x122.jpg');
+ background-repeat:no-repeat;
+ background-size: 675px 122px;
+ background-position:right top;	 
+  
 }
 .masthead-title {
   margin-top: 0;
