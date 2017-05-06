@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Appendix A Class VIII Fellows List
+title: Appendix A: Class VIII Fellows List
 permalink: /fellows_list/
 ---
 ## Appendix A: Class VIII Fellows List
