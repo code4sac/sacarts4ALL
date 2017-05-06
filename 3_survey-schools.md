@@ -3,8 +3,8 @@ layout: page
 title: Survey: School Principals
 permalink: /survey-schools/
 ---
-## Play 03. Implement: plan & strategy
-
+## Survey: School Principals
+<!--
 This play will help Departments move from conversation to action. It will provide resources that will allow the Departments to succeed. This might include: roles and responsibilities; governance structures; and data standards.
 
 This play will also include resources on project management and change management to help both staff implement and leadership enforce the importance of this work.
@@ -39,7 +39,7 @@ CHHS collects, manages, and disseminates a wide range of data. As departments cl
 The [CHHS Data De-Identification Guidelines](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines") support CHHS governance goals to reduce inconsistency of practices across departments, align standards used across departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CHHS initiatives, such as the [CHHS Open Data Portal](https://chhs.data.ca.gov/ "CHHS Open Data Portal"). 
 
 See the full guidelines and related materials [in the Resource Library]({{ site.baseurl }}/resource_library "Data Playbook Resource Library").
-
+-->
 
 <!-- Pagination -->
 <div class="pagination">

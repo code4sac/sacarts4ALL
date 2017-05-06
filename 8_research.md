@@ -4,6 +4,7 @@ title: Appendix B: Research
 permalink: /research/
 ---
 
+## Appendix B: Research
 
 <!--
 <hr>

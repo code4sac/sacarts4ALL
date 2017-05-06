@@ -4,6 +4,8 @@ title: Design Thinking Sessions
 permalink: /design_thinking/
 ---
 
+## Design Thinking Sessions
+<!--
 *Adapted from the [GovLoop Big Data Playbook for Government](https://www.govloop.com/wp-content/uploads/2015/01/Big-Data-Playbook-.pdf?utm_source=Website&utm_medium=Button&utm_campaign=Guide)*
 
 #### 1. SET CLEAR AND MEASURABLE OUTCOMES
@@ -30,7 +32,7 @@ This will help staff clearly see the impact of the project and how data can impr
 #### 6. EXPLORE SHARED SERVICES MODELS
 
 Don’t have access to the IT services you need? Maybe there is a shared service you can use with other Departments, or there are easier ways to get access to contemporary technologies. It’s also possible that you could iteratively re-engineer your existing IT infrastructure to gradually meet emerging needs.
-
+-->
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/share">&laquo; Prev</a>

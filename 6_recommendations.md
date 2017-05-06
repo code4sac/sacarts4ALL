@@ -4,7 +4,8 @@ title: Recommendations
 permalink: /recommendations/
 ---
 
-
+## Recommendations
+<!--
 <hr>
 #### 1. CHHS De-Identification Guidelines
 
@@ -23,7 +24,7 @@ The CHHS Open Data Handbook provides guidelines to identify, review, prioritize,
 The handbook focuses on general guidelines and thoughtful processes but also provides tools and resources that operationalize those processes. CHHS and its departments and offices will use this handbook in their work as they consider various perspectives involved in governing business processes, data, and technology assets.  
 
 [Access the Handbook](https://chhsdata.github.io/opendatahandbook/ "CHHS Open Data Handbook")
-
+-->
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/action_items">&laquo; Prev</a>

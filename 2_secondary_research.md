@@ -3,8 +3,8 @@ layout: page
 title: Secondary Research
 permalink: /secondary_research/
 ---
-## Play 02. Assess: tools & capabilities
-
+## Secondary Research
+<!--
 This play will include a numeric score card that will assess a Department's current assets and capabilities—including technology and human resources–to leverage their data to help formulate program or policy solutions.
 
 * What data do you currently collect?
@@ -31,7 +31,7 @@ The capability assessment will help facilitate a conversation within the Departm
 
 [![Action Item]({{ site.baseurl }}/assets/images/02_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
 
-
+-->
 
 <!-- Pagination -->
 <div class="pagination">

@@ -3,8 +3,8 @@ layout: page
 title: Survey: Non-Profit Arts Organizations
 permalink: /survey-non-profits/
 ---
-## Play 04. Evaluate: outcomes & impacts
-
+## Survey: Non-Profit Arts Organizations
+<!--
 This is an important play as it will help us validate outcomes and determine successes. It also will help  identify lessons learned, which will grow our toolbox and provide us with better intelligence. This ultimately will allow us to generate new content and additional best practices to help other Departments across the Agency.
 
 >**“Driving towards continuous 
@@ -19,7 +19,7 @@ process improvement.”**
 Establishing an evaluation process will ensure that the benefits anticipated by the implementation of any particular program or policy change are realized and an assessment can be made of the project’s overall success.
 
 >**What are the lessons learned?** How will you iterate on the current solution? What are the next steps?
-
+-->
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/implement">&laquo; Prev</a>
