@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 1. Define
-permalink: /define/
+title: Appendix A Class VIII Fellows List
+permalink: /fellows_list/
 ---
-## Play 01. Define: goals & objectives
+## Appendix A: Class VIII Fellows List
 
 This play is focused on helping Departments facilitate a high-level conversation on some of the most pressing issues facing the Department and what data solutions might be available to address the issue or problem. 
 
