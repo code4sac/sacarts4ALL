@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2. Assess
-permalink: /assess/
+title: Secondary Research
+permalink: /secondary_research/
 ---
 ## Play 02. Assess: tools & capabilities
 

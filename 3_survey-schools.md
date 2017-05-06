@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 3. Implement
-permalink: /implement/
+title: Survey: School Principals
+permalink: /survey-schools/
 ---
 ## Play 03. Implement: plan & strategy
 

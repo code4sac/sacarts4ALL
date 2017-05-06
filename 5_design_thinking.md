@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Action Items
-permalink: /action_items/
+title: Design Thinking Sessions
+permalink: /design_thinking/
 ---
 
 *Adapted from the [GovLoop Big Data Playbook for Government](https://www.govloop.com/wp-content/uploads/2015/01/Big-Data-Playbook-.pdf?utm_source=Website&utm_medium=Button&utm_campaign=Guide)*

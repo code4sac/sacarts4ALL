@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resource Library
-permalink: /resource_library/
+title: Recommendations
+permalink: /recommendations/
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 4. Evaluate
-permalink: /evaluate/
+title: Survey: Non-Profit Arts Organizations
+permalink: /survey-non-profits/
 ---
 ## Play 04. Evaluate: outcomes & impacts
 
