@@ -1,16 +1,16 @@
 # Setup
-title:            ARTS REPORT
-tagline:          'California Health and Human Services Agency'
-description:      ‘Nehemiah Emerging Leaders ’
-url:              'https://chhsdata.github.io/dataplaybook'
-baseurl:          'https://chhsdata.github.io/dataplaybook'
+title:            SacArts4ALL
+tagline:          'SacArts4ALL'
+description:      ‘SacArts4ALL’
+url:              'https://tedfitzpatrick.github.io/sacarts4ALL/'
+baseurl:          'https://tedfitzpatrick.github.io/sacarts4ALL/'
 
 author:
-  name:           'California Health and Human Services Agency'
-  url:            https://twitter.com/chhsagency
+  name:           'SacArts4ALL'
+  url:            https://twitter.com/
 
 # Custom vars
-version:          1.1 | October 2016
+version:          1.1 | May 2017
 
 github:
-  repo:           https://github.com/CHHSData/DataPlaybook
+  repo:           https://github.com/tedfitzpatrick/sacarts4ALL
