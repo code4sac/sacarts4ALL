@@ -10,13 +10,13 @@ permalink: /schools_survey/
 
 In an effort to understand the current state of arts education in K-6th grades throughout the Sacramento Region, we surveyed all principals serving in K-8th grade schools across the following five school districts: Robla, Sacramento County, Twin Rivers, Elk Grove, and Natomas. Principals (or school-level leads) were asked various questions about current availability of arts education, barriers to arts education, and quantity of opportunities provided to students. In total, there was a 55% survey completion rate across all districts (78 responses) as detailed below:.
   
-| District | Total Schools | Total Participated | Percent  |
+| School District | Total Schools | Total Participated | Percent  |
 | -------  |:-------------:|:------------------:|:--------:|
-| Robla USD | 5 | 5 | 100% |
-| Natomas USD | 12 | 11 | 91.67% |
-| Twin Rivers USD | 28 | 19 | 67.86% |
-| Sacramento City USD | 54 | 28 | 51.85% |
-| Elk Grove USD | 42 | 15 | 35.71% |
+| Robla  | 5 | 5 | 100% |
+| Natomas  | 12 | 11 | 91.67% |
+| Twin Rivers  | 28 | 19 | 67.86% |
+| Sacramento City  | 54 | 28 | 51.85% |
+| Elk Grove | 42 | 15 | 35.71% |
 
 
 ## Key Findings from the survey:
@@ -38,50 +38,82 @@ In an effort to understand the current state of arts education in K-6th grades t
 
 **Designated Arts Coordinator**: Across all five districts, roughly 1/3 of schools that responded to our survey have a designated arts coordinator, while 2/3 do not. Among schools in TRUSD, that data is flipped, with 3⁄4 of schools having a designated arts coordinator and just 1⁄4 do not. SCUSD had the lowest rate of designated arts coordinators at schools, with just 3% of schools responding to our survey claiming they had such a role.
 
-| Percentage by District | Responses | Yes | No |
+| School District | Responses | **Yes** | No |
 | ---------------------  |:---------:|:---:|:---:|
-| Robla USD | 5 | 100% | 0% |
-| Twin Rivers USD | 20 | 75% | 25% |
-| Unspecified | 22 | 45% | 55% |
-| Natomas USD | 11 | 27% | 73% |
-| Elk Grove USD | 15 | 13% | 87% |
-| Sacramento City USD | 30 | 3% | 97% |
+| Robla  | 5 | **100%** | 0% |
+| Twin Rivers  | 20 | **75%** | 25% |
+| Unspecified | 22 | **45%** | 55% |
+| Natomas  | 11 | **27%** | 73% |
+| Elk Grove  | 15 | **13%** | 87% |
+| Sacramento City  | 30 | **3%** | 97% |
 
 We posed several questions to understand how often non-arts instructors were given the opportunity to incorporate arts exposure experiences within their classrooms. We also asked about ongoing training opportunities and professional development opportunities for non-arts instructions.
 
 **Incorporate arts exposure within classrooms**
 
-| District | Yes | No | Sometimes |
+| School District | **Yes** | No | Sometimes |
 | ---------------------  |:---:|:---:|:--------:|
-| Robla USD              | 100% | 0% | 0% |
-| Elk Grove USD          | 93% | 7% | 0% |
-| Twin Rivers USD        | 90% | 5% | 5% |
-| Sacramento City USD    | 80% | 10% | 10% |
-| Natomas USD            | 72% | 10% | 18% |
+| Robla               | **100%** | 0% | 0% |
+| Elk Grove           | **93%** | 7% | 0% |
+| Twin Rivers         | **90%** | 5% | 5% |
+| Sacramento City     | **80%** | 10% | 10% |
+| Natomas             | **72%** | 10% | 18% |
 
 **Frequency of non-arts instructors for opportunity to incorporate arts exposure in classroom**
 
-| District | Daily | Weekly | Quarterly | As They Deem Necessary |
+| School District | Daily | Weekly | Quarterly | As They Deem Necessary |
 | ---------------------  |:---:|:---:|:--------:| :--------------------------:|
-| Elk Grove USD          | 0 | 2 | 1 | 10 |
-| Natomas USD            | 0 | 3 | 1 | 6 |
-| Robla USD              | 0 | 1 | 0 | 4 |
-| Sacramento City USD    | 1 | 2 | 1 | 19 |
-| Twin Rivers USD        | 2 | 5 | 0 | 13 |
+| Elk Grove           | 0 | 2 | 1 | 10 |
+| Natomas             | 0 | 3 | 1 | 6 |
+| Robla               | 0 | 1 | 0 | 4 |
+| Sacramento City     | 1 | 2 | 1 | 19 |
+| Twin Rivers         | 2 | 5 | 0 | 13 |
 
 **Ongoing education for non-arts instructors**
 
-| District | Yes | No |
+| School District | **Yes** | No |
 | ---------------------  |:---:|:---:|
-| Robla USD              | 60% | 40% |
-| Twin Rivers USD        | 60% | 40% |
-| Sacramento City USD    | 27% | 73% |
-| Elk Grove USD          | 26% | 74% |
-| Natomas USD            | 18% | 82% |
+| Robla               | **60%** | 40% |
+| Twin Rivers         | **60%** | 40% |
+| Sacramento City     | **27%** | 73% |
+| Elk Grove           | **26%** | 74% |
+| Natomas             | **18%** | 82% |
 
 Respondents also rated the availability of equipment, supplies and facilities for arts instruction or exposure for their schools:
-              
-         
+
+**Arts Equipment**
+
+| School District | More Than Enough | Enough | Barely Enough | **Not Enough** |
+| ---------------------  |:---:|:---:|:--------:| :--------------------------:|
+| Sacramento City     | 0 | 3 | 6 | **21** |
+| Elk Grove           | 0 | 2 | 8 | **5** |
+| Natomas             | 1 | 2 | 4 | **4** |
+| Twin Rivers         | 1 | 7 | 11 | **1** |
+| Robla               | 1 | 3 | 1 | **0** |
+
+
+**Arts Supplies**
+
+| School District | More Than Enough | Enough | Barely Enough | **Not Enough** |
+| ---------------------  |:---:|:---:|:--------:| :--------------------------:|
+| Sacramento City     | 0 | 3 | 10 | **17** |
+| Elk Grove           | 0 | 3 | 5 | **6** |
+| Natomas             | 1 | 4 | 3 | **4** |
+| Twin Rivers         | 1 | 14 | 5 | **1** |
+| Robla               | 2 | 4 | 1 | **0** |
+
+
+**Arts Facilities**
+
+| School District | More Than Enough | Enough | Barely Enough | **Not Enough** |
+| ---------------------  |:---:|:---:|:--------:| :--------------------------:|
+| Sacramento City     | 1 | 5 | 9 | **16** |
+| Elk Grove           | 1 | 2 | 4 | **8** |
+| Natomas             | 1 | 3 | 4 | **4** |
+| Twin Rivers         | 0 | 7 | 7 | **6** |
+| Robla               | 0 | 1 | 2 | **2** |
+       
+       
 Principals were asked to describe, on average, how many students at their school in grades K-6 were provided arts exposure during the school day. They were asked to describe these opportunities. Arts exposure for the purpose of this survey was defined as an experience outside formal arts instruction that incorporates purposeful experience and engagement with arts (i.e. performances, field trips, in-class arts projects, etc.).
 
 Principals responded to how many days per week arts instruction classes are offered during the school year:
