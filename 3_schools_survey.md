@@ -12,11 +12,11 @@ In an effort to understand the current state of arts education in K-6th grades t
   
 | District | Total Schools | Total Participated | Percent  |
 | -------  |:-------------:|:------------------:|:--------:|
-| Elk Grove USD | 42 | 15 | 35.71% |
 | Robla USD | 5 | 5 | 100% |
-| Twin Rivers USD | 28 | 19 | 67.86% |
 | Natomas USD | 12 | 11 | 91.67% |
+| Twin Rivers USD | 28 | 19 | 67.86% |
 | Sacramento City USD | 54 | 28 | 51.85% |
+| Elk Grove USD | 42 | 15 | 35.71% |
 
 
 ## Key Findings from the survey:
