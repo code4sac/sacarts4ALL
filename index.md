@@ -4,7 +4,7 @@ title: Executive Summary
 ---
 ![SacArts4ALL]({{ site.baseurl }}/assets/images/logoNELP.JPG "Nehemiah Emerging Leaders Program")
 
-### Class VIII Project Presentation for<br/>Convention and Cultural Services (CCS)<br/>and<br/>The Office of Mayor Darrell Steinberg 
+### Class VIII Project Presentation for<br/>The City of Sacramento<br/>Convention and Cultural Services (CCS)<br/>and<br/>The Office of Mayor Darrell Steinberg 
 
 
 # Executive Summary
