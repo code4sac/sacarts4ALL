@@ -69,6 +69,7 @@ Quality arts education can best be understood by dissecting **the experience** i
 
 **SCUSD Needs Assessment (Oct 2015):**
 Art not directly within needs identified
+
 <http://www.scusd.edu/sites/main/files/file-attachments/needs_assessment_v9_10-8-15.pdf>
 
 Stats for Sacramento:
@@ -89,6 +90,7 @@ Stats for Sacramento:
 ### Bucket 2 - The Gold Standard
 
 Comprehensive arts programs according to California VAPA framework
+
 <http://www.cde.ca.gov/ci/cr/cf/documents/vpaframewrk.pdf>
 
 1. Artistic perception
@@ -111,22 +113,18 @@ students.
 **ARTS EDUCATION**
 
 *Overview*
-
 Arts education solves problems. Years of research show that it's closely linked to academic achievement, social and
 emotional development, civic engagement, and equitable opportunity.
 
 *Americans for the Arts*
-
 Research shows impressive benefits of arts education on entire school culture—especially student motivation,
 attitudes, and attendance. Numerous reports discuss the ways that increased access and involvement in arts
 education encourage students to stay in school, succeed in school, succeed in life, and succeed in work.
 
 *Edutopia*
-
 Involvement in the arts is associated with gains in math, reading, cognitive ability, critical thinking, and verbal skill.
 
 *Daily Signal*
-
 In response to Obama’s “Educate to Innovate campaign, which included funding for more than 100k STEM
 teachers over the next decade, academic leaders agreed that “A” for “arts and humanities” should be added to
 create STEAM education.
@@ -137,13 +135,11 @@ engineering, and math.
 **ARTS EXPOSURE**
 
 *Overview*
-
 Exposure equals Access. Culturally enriching experiences like the arts, not only produce educational benefits, but
 promote major gains in children’s confidence, persistence, collaboration, motivation, tolerance, empathy, and a
 greater sense of community.
 
 *The Daily Signal*
-
 Once the great equalizer in terms of access to arts and culture in public schools, cultural field trips were viewed as
 central to a school’s educational mission. With continued budget cuts and lack of funding, less-advantaged
 students are less likely to have these experiences, while more advantaged families expose their children to cultural
@@ -153,7 +149,6 @@ When give access to art exposure, students from rural or high-poverty areas ofte
 historical recall, desire, and interest.
 
 *Edutopia*
-
 From Mozart for babies, to tutus for toddlers, to family trips to the museum, children of affluent, aspiring parents
 generally get exposed to the arts whether or not public schools provide them.
 
@@ -163,34 +158,40 @@ behind.
 Access equals a more level playing field with children who have enrichment experiences and opportunities.
 
 *Huffington Post*
-
 Arts exposure or access at a very young age fosters creativity, encourages tolerance of diverse populations, and
 promotes use of creative outlets for expressing emotions
 
 ### Bucket 4 - Arts Education Throughout California and Other Cities
 
 **Status of Arts Education in California Public Schools: (Dated, 2011)**
+
 <http://artsed411.org/resources/status_of_arts_ed_in_public_schools>
 
 **Harmony Project (LA area)**
+
 <https://www.harmony-project.org/>
 
 **Create CA**
+
 <http://www.createca.net/>
 
 **Create CA Roadmap for schools**
+
 <http://www.createca.dreamhosters.com/wp-content/uploads/2016/09/Roadmap-for-Districts-Final.pdf>
 
 **Create CA Interactive Dashboard**
+
 <http://www.createca.dreamhosters.com/interactive-dashboard/>
 
 **Any Given Child – Sacramento**
+
 <http://www.sacmetroarts.org/Programs/Arts-Education/Any-Given-Child>
 
 * 6 years active
 * 34 residencies in Sacramento Region (Based on their numbers, 146 total K-8 schools) 
 
 **Sacramento Preparatory Music Academy**
+
 <http://sacprepmusic.com/>
 
 **2009 Washington State and Washington State Arts Commission Study**
@@ -198,6 +199,7 @@ All Washington K–12 principals were invited to participate in an online survey
 A total of 478 principals participated, providing information about curriculum, funding, and other factors that
 impact teaching and learning in the arts. Here is a manifesto that they created that tells a story and presents an
 action plan. 
+
 <http://www.arts.wa.gov/media/dynamic/docs/Booklet-Arts-Education-Research-Initiative.pdf>
 
 **Kennedy Center Information**
@@ -210,13 +212,16 @@ All surveys/tools they used: <http://education.kennedy-center.org/education/anyg
 Final report: <http://education.kennedy-center.org/pdf/AGC_EvaluationReportSummary.pdf>
 
 **City of Portland art tax**
+
 <http://www.portlandoregon.gov/revenue/60079>
 
 **Twin River Arts Education:**
 Reports for Two Federal Grants
+
 <https://vapa-trusd-ca.schoolloop.com/smart>
 
 **Teacher Practice and Curriculum:**
+
 <http://www.twinriversusd.org/assets/external/drive4arts-executive-summary.pdf>
 
 **[Every Student Succeeds Act (ESSA)](https://www.ed.gov/essa?src=rn)** - Signed in December 2015
@@ -225,17 +230,20 @@ subjects to providing all students with a well-rounded education that includes i
 and music.
 
 **Los Angeles USD Arts Education Branch**
+
 <http://achieve.lausd.net/Page/8931>
+
 <https://lausddaily.net/2017/02/commentary-the-arts-are-essential-to-a-well-rounded-education/>
 
 **San Francisco USD Arts Education Master Plan (AEMP)**
+
 <http://www.sfusd.edu/en/assets/sfusdstaff/curriculum-and-standards/files/AEMP-arts-education-master-plan.pdf>
 
 The blueprint for integrating the arts into each student's daily curriculum. It details why and how
 students' education will include arts from day one of pre-school to through senior year of high
 school.
 
-<http://www.sfusd.edu/en/curriculum-standards/visual-performing-arts/arts-education-masterplan.html
+<http://www.sfusd.edu/en/curriculum-standards/visual-performing-arts/arts-education-masterplan.html>
 
 ### CASE STUDY ASSESSMENT: Los Angeles USD
 The goal was to identify two cities that implemented arts in education programs as case studies
