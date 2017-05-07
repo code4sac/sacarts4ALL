@@ -71,7 +71,7 @@ Of the 46 organizations that participated in the survey, 16 responded that they 
 | Sacramento Metropolitan Arts Commission | 3 | 100-300/day |
 | Sojourner Truth Museum | 2 | 40/day |
 
-**School Districts **
+**School Districts**
 
 | Organization | Elk Grove | Natomas | Robla | Sacramento City | Twin Rivers |
 | -----------  |:---------:|:-------:|:-------:|:-------:|:-------:|
