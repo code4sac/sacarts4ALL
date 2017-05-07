@@ -9,7 +9,8 @@ title: Executive Summary
 
 ## Introduction
 
-> “There is a lot of evidence to support the fact that arts education provides learners with greater self-esteem, with more motivation, > enhanced emotional expression, and an appreciation of diversity.”
+> “There is a lot of evidence to support the fact that arts education provides learners with greater self-esteem, with more motivation, enhanced emotional expression, and an appreciation of diversity.”
+
 **-Mr. David Gordon, Sacramento County Superintendent of Schools** 
 
 Simply stated, arts education solves problems. Countless research studies and documentation not only suggest, but prove, that learning outcomes, gains in confidence, collaboration, empathy, and a greater sense of community dramatically increase with arts education. Equity and access can be the main drivers or inhibitors to a child’s exposure to the arts. As one of the most racially diverse cities in the US, there’s no doubt that a community as rich in culture and history as Sacramento, places high importance on equity. Thus far, the County of Sacramento’s Office of Education in conjunction with the mayor’s office and local organizations has had numerous initiatives and partnerships in place to continue to support, grow and innovate arts education for our region (i.e. Arts Forum, PAL Award, California County Superintendents Educational Services Association, Convention and Cultural Services, and Sacramento Metropolitan Arts Commission (SMAC), to name a few). With all of these efforts in place, arts education for K-6 students in our region still has much room to grow and improve!
