@@ -37,7 +37,7 @@ Overall, there is research that shows that arts education is in-line with 21st C
 
 **The Qualities of Quality: Understanding Excellence in Arts Education**
 
-http://www.wallacefoundation.org/knowledge-center/Documents/Understanding-Excellence-in-Arts-Education.pdf
+<http://www.wallacefoundation.org/knowledge-center/Documents/Understanding-Excellence-in-Arts-Education.pdf>
 
 Quality arts education can best be understood by dissecting **the experience** into four components, each of which has key indicators for quality:
   
