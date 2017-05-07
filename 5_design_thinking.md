@@ -39,10 +39,14 @@ During the second part of the workshop we asked participants to ideate range of 
 that address solutions to how they might bring art to every child. Team members shared their
 ideas with one another, mixing and remixing, and building on each others' ideas.
 
+![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_photo2.png "prototyping solutions")
+
 After narrowing down to their preferred ideas each team built a real, tactile prototype of their
 proposed solution. Each team then pitched their solution to another team and asked for feedback.
 Based on the feedback they received teams were able to iterate on their solution one last time
 before the final presentations. 
+
+![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_photo3.png "iterating solutions")
 
 At the end of the Design Thinking workshop each group pitched their solution to the entire
 group. Here is a short description of the four solutions that our teams envisioned and built
@@ -63,7 +67,7 @@ genres of art. Artist in residence could be leveraged to achieve this or art ins
 to classes/schools. Emphasis: Every child would be included no regardless of their artistic ability
 or achievement levels.
 
-
+![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_photo4.png "solutions review")
 
 <!-- Pagination -->
 <div class="pagination">
