@@ -228,6 +228,84 @@ school.
 
 http://www.sfusd.edu/en/curriculum-standards/visual-performing-arts/arts-education-masterplan.html
 
+### CASE STUDY ASSESSMENT: Los Angeles USD
+The goal was to identify two cities that implemented arts in education programs as case studies
+to prove or negate effectiveness or challenges.
+
+The guiding principle for major school districts like Los Angeles and San Francisco is that all
+students deserve both access to and equity in arts education. 
+
+**Los Angeles USD**
+
+The nation’s largest school district, all LAUSD students are exposed to the arts—during the school day. The district even has a dedicated Arts Education Branch. In addition to funding, resources are supplemented by partnerships, fundraising, and local volunteer artists.
+
+**Arts Equity Index**
+
+An Arts Equity Index (AEI) is used to ensure that under-served students and schools receive an
+increased level of arts support and services.
+
+http://laschoolboard.org/sites/default/files/Tab1MeetingMaterial-LargeDownload.pdf
+
+The Arts Equity Index assigns levels for all LAUSD schools K-12 based on the scope of their
+provided arts instruction, resources, and Student Equity Index. The AEI index levels are:
+
+1. Non-Existent
+
+2. Basic
+
+3. Emerging
+
+4. Developing
+
+5. Strong
+
+6. Excelling
+
+A school’s Arts Equity Index level is determined through a short electronic survey completed by a
+principal (or designee) that assesses where and how arts resources and supplies are being used
+in a school.
+
+**HOW DOES THE ARTS EQUITY INDEX (AEI) BENEFIT SCHOOLS?**
+The goal is for all LAUSD schools to be at a Level 4 (Developing) or higher within three years.
+Each school year, steps are taken to provide more equity of arts resource allocation based on
+the assigned level, and to insure that all students have appropriate arts access and instruction.
+
+**WHAT RESOURCES WILL BE PROVIDED TO UNDER-RESOURCED SCHOOLS?**
+
+* Additional Arts Teachers
+
+* Additional supplies, materials, and equipment
+
+* Externally secured funding and in-kind support
+
+* Strategic Community Arts Partner usage
+
+* Expanded Instructional Time Options (0 & 7 period classes)
+
+* Creative Network
+
+* Title I
+
+**MIXED RESULTS**
+In 2012, Los Angeles Unified school board members made arts instruction a core subject,
+designating it as important as subjects like math and English. The move was aimed at getting the
+arts to every student in the district, and it won applause from arts supporters around the country.
+But in 2015, the goal of universal arts instruction remains elusive. A KPCC analysis of the most
+recent district data found that at about 100 elementary schools, the vast majority of students get
+no arts instruction.
+
+Still, across the district, there are signs of improvement. Forty-five new art teachers were hired for
+the new school year, according to district numbers, and resources like professional development
+for teachers have been increased. Plus, the district's arts branch launched a series of arts
+festivals that showcase student work.
+
+* The AEI attributed to results
+
+* Showed a wide disparity among schools in the amount of instruction in the arts
+
+* Funding was redistributed to provide instruction where it was needed the most
+
+* LAUSD Schools; Arts Results: http://schools.latimes.com/en/grading-the-arts/
 
 
 <!-- Pagination -->
