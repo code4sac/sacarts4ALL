@@ -232,6 +232,6 @@ http://www.sfusd.edu/en/curriculum-standards/visual-performing-arts/arts-educati
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/action_items">&laquo; Prev</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/fellows_list">&laquo; Prev</a>
   <span class="pagination-item newer">Next &raquo;</span>
 </div>

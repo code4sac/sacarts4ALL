@@ -63,6 +63,6 @@ or achievement levels.
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/share">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/resource_library">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/non_profits_survey">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/recommendations">Next &raquo;</a>
 </div>

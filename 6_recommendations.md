@@ -86,6 +86,6 @@ about what they offer and their contact info).
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/action_items">&laquo; Prev</a>
-  <span class="pagination-item newer">Next &raquo;</span>
+  <a class="pagination-item older" href="{{ site.baseurl }}/design_thinking">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/recommendations">Next &raquo;</a>
 </div>

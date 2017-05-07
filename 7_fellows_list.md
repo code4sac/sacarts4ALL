@@ -23,6 +23,6 @@ permalink: /fellows_list/
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/assess">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/recommendations">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/research">Next &raquo;</a>
 </div>
