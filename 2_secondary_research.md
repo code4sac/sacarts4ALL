@@ -3,6 +3,7 @@ layout: page
 title: Secondary Research
 permalink: /secondary_research/
 ---
+# Secondary Research
 
 Overall, there is research that shows that arts education is in-line with 21st Century Learning Outcomes. These outcomes include: an integrated approach to learning/teaching; innovative skills building; creativity and critical thinking skills and collaboration. It is important to note that the research only shows correlations between arts education and academic achievement. It does not show causation.
 
