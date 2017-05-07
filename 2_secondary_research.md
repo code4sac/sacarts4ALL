@@ -11,28 +11,28 @@ Overall, there is research that shows that arts education is in-line with 21st C
 Quality arts education can best be understood by dissecting the experience into four components, each of which has key indicators for quality:
 
 * **Student Learning**: what students are actually doing in the classroom, the kinds of projects and tasks they’re involved in, the focus and character of their engagement, the attitudes and mindsets they bring to the learning experience.
-..* Engagement
-* Purposeful experiences creating or engaging with works of art 
-* Emotional openness and honesty
-* Experimentation, exploration, and inquiry
-* Ownership
+  * Engagement
+  * Purposeful experiences creating or engaging with works of art 
+  * Emotional openness and honesty
+  * Experimentation, exploration, and inquiry
+  * Ownership
 
 * **Pedagogy**: how teachers conceive of and practice their craft, how they conceptualize their role in the classroom, and how they design and implement instruction.
-..* Authenticity
-* Modeling artistic processes, inquiry, and habits
-* Participation in the learning experience
-* Making learning relevant and connected to prior knowledge 
-* Intentionality, flexibility, and transparency
+  * Authenticity
+  * Modeling artistic processes, inquiry, and habits
+  * Participation in the learning experience
+  * Making learning relevant and connected to prior knowledge 
+  * Intentionality, flexibility, and transparency
 
 * **Community Dynamics**: the social dimension of the relationships in the classroom or other arts learning setting, relationships among the students themselves, between students and teachers, and among the teachers and other adults who interact with students in the classroom.
-..* Respect and trust among all participants, along with a belief in student capacities 
-* Open communication
-* Collaboration
+  * Respect and trust among all participants, along with a belief in student capacities 
+  * Open communication
+  * Collaboration
 
 * **Environment**: the tangible and concrete elements, including the physical space of the classroom, the material resources available, as well as the time students are given (hours and years) to engage in arts learning.
-..* Functional and aesthetic space and materials
-* The arts occupy a central place in the physical environment 
-* Sufficient time for authentic artistic work
+  * Functional and aesthetic space and materials
+  * The arts occupy a central place in the physical environment 
+  * Sufficient time for authentic artistic work
  
 <!--Stats for Sacramento:
 • 138 schools
