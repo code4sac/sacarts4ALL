@@ -20,6 +20,7 @@ In an effort to understand the current state of arts education in K-6th grades t
 
 
 ## Key Findings from the survey:
+
 1. Most principals reported non-arts instructors provide arts opportunities or exposure within their classrooms, but a much smaller percentage are offered on-going training opportunities for this type of instruction. Increasing this type of teacher training could be an “easy win” with BIG classroom outcomes.
 
 2. Most principals are contracting with outside providers, but providers have indicated (in the nonprofit survey) that they have no easy way to connect with schools sites or districts. A consistent method for connecting arts providers with schools could be a powerful tool.
