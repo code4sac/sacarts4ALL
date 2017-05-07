@@ -2,9 +2,8 @@
 layout: default
 title: Executive Summary
 ---
-<!--![SacArts4ALL]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 1st Edition")-->
+![SacArts4ALL]({{ site.baseurl }}/assets/images/logoNELP.JPG "Nehemiah Emerging Leaders Program")
 
-### Nehemiah Emerging Leaders Program (NELP)  
 ### Class VIII Project Presentation for   
 ### Convention and Cultural Services (CCS)  
 ### and  
