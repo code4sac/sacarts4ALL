@@ -7,7 +7,7 @@ title: Executive Summary
 ### Class VIII Project Presentation for<br/>The City of Sacramento<br/>Convention and Cultural Services (CCS)<br/>and<br/>The Office of Mayor Darrell Steinberg 
 
 
-# Executive Summary
+# Executive Summary<br/><em>Sacramento K-6 Arts Assessment</em> 
 
 
 ## Introduction

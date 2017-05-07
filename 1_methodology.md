@@ -36,5 +36,5 @@ The design-thinking ideology asserts that a hands-on, user-centric approach to p
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/secondary_research">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}secondary_research">Next &raquo;</a>
 </div>
