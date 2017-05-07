@@ -3,49 +3,48 @@ layout: page
 title: Secondary Research
 permalink: /secondary_research/
 ---
-## Secondary Research
-
 
 Overall, there is research that shows that arts education is in-line with 21st Century Learning Outcomes. These outcomes include: an integrated approach to learning/teaching; innovative skills building; creativity and critical thinking skills and collaboration. It is important to note that the research only shows correlations between arts education and academic achievement. It does not show causation.
 
-Quality of arts education
+## Quality of arts education
 
 Quality arts education can best be understood by dissecting the experience into four components, each of which has key indicators for quality:
 
-• Student Learning – what students are actually doing in the classroom, the kinds of projects and tasks they’re involved in, the focus and character of their engagement, the attitudes and mindsets they bring to the learning experience.
-o Engagement
-o Purposeful experiences creating or engaging with works of art o Emotional openness and honesty
-o Experimentation, exploration, and inquiry
-o Ownership
+* **Student Learning**: what students are actually doing in the classroom, the kinds of projects and tasks they’re involved in, the focus and character of their engagement, the attitudes and mindsets they bring to the learning experience.
+..* Engagement
+* Purposeful experiences creating or engaging with works of art 
+* Emotional openness and honesty
+* Experimentation, exploration, and inquiry
+* Ownership
 
-• Pedagogy – how teachers conceive of and practice their craft, how they conceptualize their role in the classroom, and how they design and implement instruction.
-o Authenticity
-o Modeling artistic processes, inquiry, and habits
-o Participation in the learning experience
-o Making learning relevant and connected to prior knowledge o Intentionality, flexibility, and transparency
+* **Pedagogy**: how teachers conceive of and practice their craft, how they conceptualize their role in the classroom, and how they design and implement instruction.
+..* Authenticity
+* Modeling artistic processes, inquiry, and habits
+* Participation in the learning experience
+* Making learning relevant and connected to prior knowledge 
+* Intentionality, flexibility, and transparency
 
-• Community Dynamics – the social dimension of the relationships in the classroom or other arts learning setting, relationships among the students themselves, between students and teachers, and among the teachers and other adults who interact with students in the classroom.
-o Respect and trust among all participants, along with a belief in student capacities o Open communication
-o Collaboration
+* **Community Dynamics**: the social dimension of the relationships in the classroom or other arts learning setting, relationships among the students themselves, between students and teachers, and among the teachers and other adults who interact with students in the classroom.
+..* Respect and trust among all participants, along with a belief in student capacities 
+* Open communication
+* Collaboration
 
-• Environment – the tangible and concrete elements, including the physical space of the classroom, the material resources available, as well as the time students are given (hours and years) to engage in arts learning.
-o Functional and aesthetic space and materials
-o The arts occupy a central place in the physical environment o Sufficient time for authentic artistic work
-   Commented [SC2]: Think that the secondary research and survey results need a bit more organizing and downsizing.
-Results
+* **Environment**: the tangible and concrete elements, including the physical space of the classroom, the material resources available, as well as the time students are given (hours and years) to engage in arts learning.
+..* Functional and aesthetic space and materials
+* The arts occupy a central place in the physical environment 
+* Sufficient time for authentic artistic work
  
-Quantity of Arts Education (Is this it for this section?)
-
-Stats for Sacramento:
+<!--Stats for Sacramento:
 • 138 schools
 • 111,498 enrolled
 • 38,238 arts enrollment
 • 34% arts
-• 818 arts teachers, 139.3 (student/teacher ratio)
+• 818 arts teachers, 139.3 (student/teacher ratio)-->
 
-The Gold Standard (Need more details)
+## The Gold Standard
 
-According to the California VAPA Framework, a balanced, comprehensive arts program is "one in which the arts are studied as discrete disciplines related to each other and, when appropriate, to other subject areas in the curriculum." A comprehensive arts program has key elements that allow students to develop competencies in the art disciplines while also maintaining high standards for success. T o master the standards of an arts discipline, the framework states that comprehensive arts programs should be built around 5 strands:
+According to the California VAPA Framework, a balanced, comprehensive arts program is "one in which the arts are studied as discrete disciplines related to each other and, when appropriate, to other subject areas in the curriculum." A comprehensive arts program has key elements that allow students to develop competencies in the art disciplines while also maintaining high standards for success. To master the standards of an arts discipline, the framework states that comprehensive arts programs should be built around 5 strands:
+
 a. Artistic perception. Students use language and the skills unique to visual arts, theater, dance and music to analyze and respond to sensory information.
 b. Creative expression. This deals with the application of the skills learned in the arts disciplines. Students create and/or perform their own work. They also communicate the intent of meaning of their work.
 c. Historical and cultural context. In learning an art discipline, the students work towards understanding the historical and cultural contributions within the discipline.
