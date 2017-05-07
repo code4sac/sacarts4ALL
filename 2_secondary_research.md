@@ -69,7 +69,7 @@ achievement, social and emotional development, civic engagement, and equitable
 opportunity.
 
 **Americans for the Arts**
-*Research shows impressive benefits of arts education on entire school culture especially
+* Research shows impressive benefits of arts education on entire school culture especially
 student motivation, attitudes, and attendance. Numerous reports discuss the ways that increased access and involvement in arts education encourage students to stay in school, succeed in school, succeed in life, and succeed in work.
 
 **Edutopia**
