@@ -116,7 +116,26 @@ Respondents also rated the availability of equipment, supplies and facilities fo
        
 Principals were asked to describe, on average, how many students at their school in grades K-6 were provided arts exposure during the school day. They were asked to describe these opportunities. Arts exposure for the purpose of this survey was defined as an experience outside formal arts instruction that incorporates purposeful experience and engagement with arts (i.e. performances, field trips, in-class arts projects, etc.).
 
+* **Elk Grove** 
+  * Ranges from no outside exposure to 100%
+* **Natomas** 
+  * Ranges from very few to 100%
+* **Robla** 
+  * Overall, majority or 100%
+* **Sacramento City** 
+  * Ranges from every day to 1 – 2 times per year
+* **Twin Rivers** 
+  * Varies from most to 100%
+
 Principals responded to how many days per week arts instruction classes are offered during the school year:
+
+| School District | 1 Day/week | 2 Days/week | 3 Days/week | 4 Days/week | 5 Days/week | None |
+| ----------------|:----------:|:-----------:|:-----------:|:----------:|:----------:| :----------:|
+| Sacramento City     | 41% | 7% | 0 | 0 | 4% | 48% |
+| Elk Grove           | 34% | 0 | 6% | 0 | 0 | 60% |
+| Natomas             | 36% | 0 | 9% | 0 | 9% | 45% |
+| Twin Rivers         | 94% | 0 | 0 | 0 | 6% | 0 |
+| Robla               | 80% | 0 | 0 | 0 | 0 | 20% |
 
 Principals were asked to cite biggest barriers to increasing arts education opportunities at their school
 
