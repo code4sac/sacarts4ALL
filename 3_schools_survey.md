@@ -142,9 +142,10 @@ Principals were asked to cite biggest barriers to increasing arts education oppo
 **General Trend:**
 Of the 86 who answered, "Funding" was viewed as the **#1** barrier to increasing arts education. Robla Unified and Twin Rivers Unified had 0% of their reporting schools chose "Support from Administrator" as a barrier.
 
+![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_Chart1.png "Chart: Elk Grove USD Barriers to Increasing Arts Education")
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}secondary_research">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/evaluate">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/secondary_research">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/non_profits_survey">Next &raquo;</a>
 </div>

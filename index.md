@@ -27,5 +27,5 @@ In order to further understand and assess the arts education landscape, includin
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="{{ site.baseurl }}methodology">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/methodology">Next &raquo;</a>
 </div>
