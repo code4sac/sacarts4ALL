@@ -20,7 +20,7 @@ deeper commitment to the arts in schools in Sacramento region and build solution
 us there. Challenging them with the question of: “How might we bring art to every child?”.
 Throughout the 4-hour process, the four teams made lots of discoveries, as outlined below: 
 
-Ideation: “What Art Means to Me”
+<h3>Ideation: “What Art Means to Me”</h3>
 During the first part of the session we asked attendees to participate in Poll everywhere
 interactive survey exercise and enter a word, or multiple words that describe what art means to
 them. The participants used their mobile phones to make the submissions. Based on the words
@@ -31,7 +31,7 @@ Following this exercise we asked participants to create a drawing that captures 
 them in a visual form. The drawings were then pinned at the wall and we asked the participants
 to share with the group what their drawing represents.
 
-Prototyping solutions: “How Might We Bring Art To Every Child”
+<h3>Prototyping solutions: “How Might We Bring Art To Every Child”</h3>
 During the second part of the workshop we asked participants to ideate range of creative ideas
 that address solutions to how they might bring art to every child. Team members shared their
 ideas with one another, mixing and remixing, and building on each others' ideas.
@@ -45,17 +45,17 @@ At the end of the Design Thinking workshop each group pitched their solution to 
 group. Here is a short description of the four solutions that our teams envisioned and built
 prototypes around:
 
-1. Art week: A concept for “An Art week” in each district where all students showcase an art
+1. <strong>Art week:</strong> A concept for “An Art week” in each district where all students showcase an art
 they learned.
 
-2. Art App: A concept for an app that serves as inventory of tools and resources and facilitates
+2. <strong>Art App:</strong> A concept for an app that serves as inventory of tools and resources and facilitates
 matchmaking and discussion between Art Seekers and Art Providers.
 
-3. Art Playground: A concept for a space where students can do art (all genres). This space
+3. <strong>Art Playground:</strong> A concept for a space where students can do art (all genres). This space
 gives all students an opportunity to interact with art and be creative. The group also discussed
 management of such space.
 
-4. Art Integration: The idea is to have a way that all students are exposed to all/variety of
+4. <strong>Art Integration:</strong> The idea is to have a way that all students are exposed to all/variety of
 genres of art. Artist in residence could be leveraged to achieve this or art instructors could rotate
 to classes/schools. Emphasis: Every child would be included no regardless of their artistic ability
 or achievement levels.
