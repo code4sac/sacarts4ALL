@@ -28,7 +28,7 @@ In an effort to understand the current state of arts education in K-6th grades t
 
 4. Most schools in the school districts surveyed provide a very limited number of art exposure experiences. These experiences come in the form of field trips and assemblies and vary in number not only between the districts, but also within the districts themselves. Also, because the frequency of the exposures varies, some students may or may not have the opportunity to these experiences. It was reported by all districts that arts exposure experiences vary by individual teacher and by grade level. Among those surveyed, the after-school programs played a significant role in providing arts exposure experiences, thus limiting access to those who are part of after school programs.
 
-  * a. Types of programming include Firefly Arts, ASES, START & PTA programs. Recurring programs across districts were Fire fly Arts and ASES. At least three school districts (EGUSD, NUSD, SCUSD) are utilizing firefly art for after school arts opportunities. EGUSD, SCUSD and TRUSD are using ASES programming.
+  * Types of programming include Firefly Arts, ASES, START & PTA programs. Recurring programs across districts were Fire fly Arts and ASES. At least three school districts (EGUSD, NUSD, SCUSD) are utilizing firefly art for after school arts opportunities. EGUSD, SCUSD and TRUSD are using ASES programming.
   
 5. Funding is not only seen as a barrier to increasing arts education, but was also chosen as the most important action to do so.
 
@@ -50,16 +50,38 @@ In an effort to understand the current state of arts education in K-6th grades t
 We posed several questions to understand how often non-arts instructors were given the opportunity to incorporate arts exposure experiences within their classrooms. We also asked about ongoing training opportunities and professional development opportunities for non-arts instructions.
 
 **Incorporate arts exposure within classrooms**
-| Percentage by District | Yes | No | Sometimes |
+
+| District | Yes | No | Sometimes |
 | ---------------------  |:---:|:---:|:--------:|
 | Robla USD              | 100% | 0% | 0% |
 | Elk Grove USD          | 93% | 7% | 0% |
 | Twin Rivers USD        | 90% | 5% | 5% |
 | Sacramento City USD    | 80% | 10% | 10% |
 | Natomas USD            | 72% | 10% | 18% |
- 
+
+**Frequency of non-arts instructors for opportunity to incorporate arts exposure in classroom**
+
+| District | Daily | Weekly | Quarterly | As They Deem Necessary |
+| ---------------------  |:---:|:---:|:--------:| :--------------------------:|
+| Elk Grove USD          | 0 | 2 | 1 | 10 |
+| Natomas USD            | 0 | 3 | 1 | 6 |
+| Robla USD              | 0 | 1 | 0 | 4 |
+| Sacramento City USD    | 1 | 2 | 1 | 19 |
+| Twin Rivers USD        | 2 | 5 | 0 | 13 |
+
+**Ongoing education for non-arts instructors**
+
+| District | Yes | No |
+| ---------------------  |:---:|:---:|
+| Robla USD              | 60% | 40% |
+| Twin Rivers USD        | 60% | 40% |
+| Sacramento City USD    | 27% | 73% |
+| Elk Grove USD          | 26% | 74% |
+| Natomas USD            | 18% | 82% |
+
 Respondents also rated the availability of equipment, supplies and facilities for arts instruction or exposure for their schools:
               
+         
 Principals were asked to describe, on average, how many students at their school in grades K-6 were provided arts exposure during the school day. They were asked to describe these opportunities. Arts exposure for the purpose of this survey was defined as an experience outside formal arts instruction that incorporates purposeful experience and engagement with arts (i.e. performances, field trips, in-class arts projects, etc.).
 
 Principals responded to how many days per week arts instruction classes are offered during the school year:
