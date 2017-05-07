@@ -4,7 +4,7 @@ title: Appendix B: Research
 permalink: /research/
 ---
 
-## Appendix B: Research
+# Appendix B: Research
 
 ## NELP Arts Assessment Research Summary
 

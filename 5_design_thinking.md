@@ -3,6 +3,7 @@ layout: page
 title: Design Thinking Sessions
 permalink: /design_thinking/
 ---
+# Design Thinking Sessions
 
 As a part of our assessment journey we heard some powerful and very moving stories about the
 value of arts education as well as the gaps and needs observed in this space. The goal of our

@@ -3,6 +3,7 @@ layout: page
 title: Methodology
 permalink: /methodology/
 ---
+# Methodology
 
 The following methodologies were used to conduct research and collect data:
 

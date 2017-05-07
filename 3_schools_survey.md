@@ -20,6 +20,7 @@ In an effort to understand the current state of arts education in K-6th grades t
 
 
 ## Key Findings from the survey:
+
 1. Most principals reported non-arts instructors provide arts opportunities or exposure within their classrooms, but a much smaller percentage are offered on-going training opportunities for this type of instruction. Increasing this type of teacher training could be an “easy win” with BIG classroom outcomes.
 
 2. Most principals are contracting with outside providers, but providers have indicated (in the nonprofit survey) that they have no easy way to connect with schools sites or districts. A consistent method for connecting arts providers with schools could be a powerful tool.
@@ -27,7 +28,6 @@ In an effort to understand the current state of arts education in K-6th grades t
 3. Many indicated there were not ample supplies for arts instruction. Increasing availability of supplies may increase arts opportunities for students as provided by non-arts instructors.
 
 4. Most schools in the school districts surveyed provide a very limited number of art exposure experiences. These experiences come in the form of field trips and assemblies and vary in number not only between the districts, but also within the districts themselves. Also, because the frequency of the exposures varies, some students may or may not have the opportunity to these experiences. It was reported by all districts that arts exposure experiences vary by individual teacher and by grade level. Among those surveyed, the after-school programs played a significant role in providing arts exposure experiences, thus limiting access to those who are part of after school programs.
-
   * Types of programming include Firefly Arts, ASES, START & PTA programs. Recurring programs across districts were Fire fly Arts and ASES. At least three school districts (EGUSD, NUSD, SCUSD) are utilizing firefly art for after school arts opportunities. EGUSD, SCUSD and TRUSD are using ASES programming.
   
 5. Funding is not only seen as a barrier to increasing arts education, but was also chosen as the most important action to do so.
@@ -129,18 +129,18 @@ Principals were asked to describe, on average, how many students at their school
 
 Principals responded to how many days per week arts instruction classes are offered during the school year:
 
-| School District | 1 Day/week | 2 Days/week | 3 Days/week | 4 Days/week | 5 Days/week | None |
+| School District | 1 Day/week | 2 Days/week | 3 Days/week | 4 Days/week | 5 Days/week | **None** |
 | ----------------|:----------:|:-----------:|:-----------:|:----------:|:----------:| :----------:|
-| Sacramento City     | 41% | 7% | 0 | 0 | 4% | 48% |
-| Elk Grove           | 34% | 0 | 6% | 0 | 0 | 60% |
-| Natomas             | 36% | 0 | 9% | 0 | 9% | 45% |
-| Twin Rivers         | 94% | 0 | 0 | 0 | 6% | 0 |
-| Robla               | 80% | 0 | 0 | 0 | 0 | 20% |
+| Elk Grove           | 34% | 0 | 6% | 0 | 0 | **60%** |
+| Sacramento City     | 41% | 7% | 0 | 0 | 4% | **48%** |
+| Natomas             | 36% | 0 | 9% | 0 | 9% | **45%** |
+| Robla               | 80% | 0 | 0 | 0 | 0 | **20%** |
+| Twin Rivers         | 94% | 0 | 0 | 0 | 6% | **0** |
 
-Principals were asked to cite biggest barriers to increasing arts education opportunities at their school
+Principals were asked to cite biggest barriers to increasing arts education opportunities at their school.
 
-General Trend:
-Of the 86 who answered, Funding was viewed as the #1 barrier to increasing arts education. Robla Unified and Twin Rivers Unified had 0% of their reporting schools chose Support from Administrator as a barrier.
+**General Trend:**
+Of the 86 who answered, "Funding" was viewed as the **#1** barrier to increasing arts education. Robla Unified and Twin Rivers Unified had 0% of their reporting schools chose "Support from Administrator" as a barrier.
 
 
 <!-- Pagination -->

@@ -4,6 +4,8 @@ title: Recommendations
 permalink: /recommendations/
 ---
 
+# Recommendations
+
 After thorough examination of the research and data, ideation sessions were conducted amongst the NELP team to culminate all of our learnings into the below recommendations. These recommendations are tied to three clear themes: Align, Leverage and Learn. As a result, the brand of **“Arts for ALL”** has naturally emerged.
 
 The recommendations are organized by theme and tier; the tier categories are defined as:

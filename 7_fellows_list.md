@@ -3,7 +3,7 @@ layout: page
 title: Appendix A: Class VIII Fellows List
 permalink: /fellows_list/
 ---
-## Appendix A: Class VIII Fellows List
+# Appendix A: Class VIII Fellows List
 
 * Bree Cahill, SVP
 * Simi Claire, Pumco Inc.
