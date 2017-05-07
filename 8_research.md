@@ -4,36 +4,33 @@ title: Appendix B: Research
 permalink: /research/
 ---
 
-## Appendix B: Research
+## NELP Arts Assessment Research Summary
 
-NELP Arts Assessment Research Summary
- There is substantial research showing the positive effects of arts education on academic achievement, in particular
- for students from low SES backgrounds. This was shown in school with high arts participation and what they call
- arts rich schools: schools with a complete arts curriculum. (That needs further defining)
- Some research discussed arts integration. This is where arts in infused across the curriculum. In schools that had
- both an arts class and arts integrated across the curriculum, the students outperformed others in schools focused
- primarily on one or the other. Teachers in these settings were also given more professional development which
- contributed to the positive effects on student achievement.
- It was also suggested that extensive and deep involvement in arts activities showed a significant predictor of
- students later achievement and community involvement. Arts education had prosocial outcomes notwithstanding
- the positive effects on student achievement.
- Overall, there is research that shows that arts education is in-line with 21st Century Learning Outcomes. These
- outcomes include: an integrated approach to learning/teaching; innovative skills building; creativity and critical
- thinking skills and collaboration. It is important to note that the research only shows correlations between arts
- education and academic achievement. It does not show causation.
-Research Requirement Buckets
+### Research on arts impact on academic achievement
+
+There is substantial research showing the positive effects of arts education on academic achievement, in particular for students from low SES backgrounds. This was shown in school with high arts participation and what they call arts rich schools: schools with a complete arts curriculum.
+
+Some research discussed arts integration. This is where arts in infused across the curriculum. In schools that had both an arts class and arts integrated across the curriculum, the students outperformed others in schools focused primarily on one or the other. Teachers in these settings were also given more professional development which contributed to the positive effects on student achievement. It was also suggested that extensive and deep involvement in arts activities showed a significant predictor of students later achievement and community involvement. Arts education had prosocial outcomes notwithstanding the positive effects on student achievement.
+
+Overall, there is research that shows that arts education is in-line with 21st Century Learning Outcomes. These outcomes include: an integrated approach to learning/teaching; innovative skills building; creativity and critical thinking skills and collaboration. It is important to note that the research only shows correlations between arts education and academic achievement. It does not show causation.
+
+### Research Requirement Buckets
 1. Quality and Quantity of Arts Education
-○ What’s already happening, where, how often/how many hours,
-○ Mandated by district or school driven
+  * What’s already happening, where, how often/how many hours,
+  * Mandated by district or school driven
+  
 2. The Gold Standard
-○ What it is and examples that already exist
-○ Best practices, min threshold of hours
+  * What it is and examples that already exist
+  * Best practices, min threshold of hours
+  
 3. Arts Education Vs. Arts Exposure
+
 4. Arts Education Throughout CA and Other Cities
-○ For schools/districts with strong arts programs, how have these schools/districts changed? What outcomes are they seeing?
-○ What hurdles have others run into when building out arts education programs in schools?
-○ How do the Sacramento-area districts vary in what arts education they offer?
-Bucket 1a - Quality
+  * For schools/districts with strong arts programs, how have these schools/districts changed? What outcomes are they seeing?
+  * What hurdles have others run into when building out arts education programs in schools?
+  * How do the Sacramento-area districts vary in what arts education they offer?
+  
+### Bucket 1a - Quality
 The Qualities of Quality: Understanding Excellence in Arts Education
 http://www.wallacefoundation.org/knowledge-center/Documents/Understanding-Excellence-in-Arts- Education.pdf
 Quality arts education can best be understood by dissecting the experience into four components, each of which has key indicators for quality:
