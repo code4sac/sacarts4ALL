@@ -96,8 +96,6 @@ aspiring parents generally get exposed to the arts whether or not public schools
 **Huffington Post**
 * Arts exposure or access at a very young age fosters creativity, encourages tolerance of diverse
 populations, and promotes use of creative outlets for expressing emotions.
-Arts Education Throughout California and other Cities (Need more meat in summary)
-
 
 <!-- Pagination -->
 <div class="pagination">
