@@ -5,34 +5,63 @@ permalink: /design_thinking/
 ---
 
 ## Design Thinking Sessions
-<!--
-*Adapted from the [GovLoop Big Data Playbook for Government](https://www.govloop.com/wp-content/uploads/2015/01/Big-Data-Playbook-.pdf?utm_source=Website&utm_medium=Button&utm_campaign=Guide)*
 
-#### 1. SET CLEAR AND MEASURABLE OUTCOMES
+As a part of our assessment journey we heard some powerful and very moving stories about the
+value of arts education as well as the gaps and needs observed in this space. The goal of our
+assessment and discovery was to tell a story and highlight useful recommendations and solutions
+that fit and address the needs of our stakeholders. That made us wonder, what if we put the arts
+education stakeholders at the center of the process. What would happen if we brought these
+stakeholders together and asked them to not only highlight the gaps but also identify
+Opportunities and help us build solutions?
 
-Be sure that you are measuring success and thinking critically about what your success metrics will be. You must have clear and actionable goals that you want to achieve with your data project. 
- 
+We put together a Design Thinking workshop where we brought together leaders, stakeholders,
+non-profits and recipients of arts education and asked them to imagine a future that includes a
+deeper commitment to the arts in schools in Sacramento region and build solutions that will take
+us there. Challenging them with the question of: “How might we bring art to every child?”.
+Throughout the 4-hour process, the four teams made lots of discoveries, as outlined below: 
 
-#### 2. DEFINE YOUR OWN MEANING OF DATA
+Ideation: “What Art Means to Me”
+During the first part of the session we asked attendees to participate in Poll everywhere
+interactive survey exercise and enter a word, or multiple words that describe what art means to
+them. The participants used their mobile phones to make the submissions. Based on the words
+that were submitted, the word cloud was automatically produced. The words that appear bigger
+in size are the words that were submitted more frequently. 
 
-Everyone is going to define data differently. Start by understanding what data means for your Department. It also will be important for you to prioritize your data. You must know which data are the highest value to your organization.
+Following this exercise we asked participants to create a drawing that captures what art means to
+them in a visual form. The drawings were then pinned at the wall and we asked the participants
+to share with the group what their drawing represents.
 
-#### 3. START SMALL
+Prototyping solutions: “How Might We Bring Art To Every Child”
+During the second part of the workshop we asked participants to ideate range of creative ideas
+that address solutions to how they might bring art to every child. Team members shared their
+ideas with one another, mixing and remixing, and building on each others' ideas.
 
-You’re going to want to be sure to start small.  Running a few pilots around data can’t hurt; this will help you get a better understanding of the lay of the land, what you can improve with data, and how you can identify the gaps. 
+After narrowing down to their preferred ideas each team built a real, tactile prototype of their
+proposed solution. Each team then pitched their solution to another team and asked for feedback.
+Based on the feedback they received teams were able to iterate on their solution one last time
+before the final presentations. 
 
-#### 4. IDENTIFY STAFF TO MANAGE DATA
+At the end of the Design Thinking workshop each group pitched their solution to the entire
+group. Here is a short description of the four solutions that our teams envisioned and built
+prototypes around:
 
-Every employee will need different kinds of accessibility, so make sure that your data systems maps to these needs and is not providing unauthorized access to information.
+1. Art week: A concept for “An Art week” in each district where all students showcase an art
+they learned.
 
-#### 5. FOCUS ON EDUCATION AND TRAINING
+2. Art App: A concept for an app that serves as inventory of tools and resources and facilitates
+matchmaking and discussion between Art Seekers and Art Providers.
 
-This will help staff clearly see the impact of the project and how data can improve effectiveness and efficiency. Including  the Playbook in a new employee orientation could further enable staff and foster a culture of data within a Department.
+3. Art Playground: A concept for a space where students can do art (all genres). This space
+gives all students an opportunity to interact with art and be creative. The group also discussed
+management of such space.
 
-#### 6. EXPLORE SHARED SERVICES MODELS
+4. Art Integration: The idea is to have a way that all students are exposed to all/variety of
+genres of art. Artist in residence could be leveraged to achieve this or art instructors could rotate
+to classes/schools. Emphasis: Every child would be included no regardless of their artistic ability
+or achievement levels.
 
-Don’t have access to the IT services you need? Maybe there is a shared service you can use with other Departments, or there are easier ways to get access to contemporary technologies. It’s also possible that you could iteratively re-engineer your existing IT infrastructure to gradually meet emerging needs.
--->
+
+
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/share">&laquo; Prev</a>
