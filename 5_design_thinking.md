@@ -32,6 +32,8 @@ Following this exercise we asked participants to create a drawing that captures 
 them in a visual form. The drawings were then pinned at the wall and we asked the participants
 to share with the group what their drawing represents.
 
+![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_photo1.png "participant presenting drawing")
+
 ## Prototyping solutions: “How Might We Bring Art To Every Child”
 During the second part of the workshop we asked participants to ideate range of creative ideas
 that address solutions to how they might bring art to every child. Team members shared their
