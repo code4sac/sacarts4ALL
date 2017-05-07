@@ -19,8 +19,10 @@ Simply stated, arts education solves problems. Countless research studies and do
 
 In order to further understand and assess the arts education landscape, including opportunities and challenges for the Sacramento region, Mayor Steinberg’s office and the Convention and Cultural Services partnered with the Nehemiah Emerging Leaders Program (NELP) Class VIII for their class project. Early on, the following school districts were identified to research: Sacramento, Elk Grove, Twin Rivers, Robla and Natomas Unified. The specific focus was placed on grades K-6, assessing the ways in which these students are receiving direct arts instruction and/or participating in arts exposure activities during and outside of school. Meetings were held with key stakeholders, including: Dennis Mangers, Jody Ulich, Lennee Eller, Shelly Willis, Steve Winlock, Jackie White, Li Ezzell, Kelly Rivas, and the respective district superintendents.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yUh6sYJOwrU?ecver=1" frameborder="0" allowfullscreen></iframe>
+
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/methodology">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}methodology">Next &raquo;</a>
 </div>
