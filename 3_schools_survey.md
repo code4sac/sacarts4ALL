@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Survey: School Principals
+title: Survey - School Principals
 permalink: /schools_survey/
 ---
 

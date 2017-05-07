@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Appendix B: Research
+title: Appendix B - Research
 permalink: /research/
 ---
 

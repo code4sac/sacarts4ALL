@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Survey: Non-Profit Arts Organizations
+title: Survey - Non-Profit Arts Organizations
 permalink: /non_profits_survey/
 ---
 # Survey: Non-Profit Arts Organizations
