@@ -129,18 +129,18 @@ Principals were asked to describe, on average, how many students at their school
 
 Principals responded to how many days per week arts instruction classes are offered during the school year:
 
-| School District | 1 Day/week | 2 Days/week | 3 Days/week | 4 Days/week | 5 Days/week | None |
+| School District | 1 Day/week | 2 Days/week | 3 Days/week | 4 Days/week | 5 Days/week | **None** |
 | ----------------|:----------:|:-----------:|:-----------:|:----------:|:----------:| :----------:|
-| Sacramento City     | 41% | 7% | 0 | 0 | 4% | 48% |
-| Elk Grove           | 34% | 0 | 6% | 0 | 0 | 60% |
-| Natomas             | 36% | 0 | 9% | 0 | 9% | 45% |
-| Twin Rivers         | 94% | 0 | 0 | 0 | 6% | 0 |
-| Robla               | 80% | 0 | 0 | 0 | 0 | 20% |
+| Elk Grove           | 34% | 0 | 6% | 0 | 0 | **60%** |
+| Sacramento City     | 41% | 7% | 0 | 0 | 4% | **48%** |
+| Natomas             | 36% | 0 | 9% | 0 | 9% | **45%** |
+| Robla               | 80% | 0 | 0 | 0 | 0 | **20%** |
+| Twin Rivers         | 94% | 0 | 0 | 0 | 6% | **0** |
 
-Principals were asked to cite biggest barriers to increasing arts education opportunities at their school
+Principals were asked to cite biggest barriers to increasing arts education opportunities at their school.
 
-General Trend:
-Of the 86 who answered, Funding was viewed as the #1 barrier to increasing arts education. Robla Unified and Twin Rivers Unified had 0% of their reporting schools chose Support from Administrator as a barrier.
+**General Trend:**
+Of the 86 who answered, "Funding" was viewed as the **#1** barrier to increasing arts education. Robla Unified and Twin Rivers Unified had 0% of their reporting schools chose "Support from Administrator" as a barrier.
 
 
 <!-- Pagination -->
