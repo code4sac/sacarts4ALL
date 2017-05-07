@@ -103,6 +103,8 @@ Of the 46 organizations that participated in the survey, 16 responded that they 
 
 Collectively, 23 survey respondents are serving 21,570 students annually (though unknown what percent of these students are cross enrolled in programs). The majority of arts nonprofits offering non- school hours programming during the school year either offer it one day per week, or five days per week.
 
+![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_Chart2.png "Days/Week Offering Non-School Hours Arts Instruction During the School Year (n=23)")
+
 ### Reported Benefits of offering arts education within the school day:
 
 Positive changes, as reported, included reading and language skills, critical thinking skills, social skills, motivation to learn, and positive school environment. Additionally, respondents added greater self- esteem and self-confidence, which was a prominent answer within the more general question below regarding positive change, as observed by students who have participated in art education classes. (8 respondents)
@@ -115,6 +117,6 @@ When asked what arts organizations would do if they could â€œwave a magic wand,â
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/implement">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/share">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/schools_survey">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/design_thinking">Next &raquo;</a>
 </div>
