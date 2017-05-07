@@ -107,7 +107,9 @@ Collectively, 23 survey respondents are serving 21,570 students annually (though
 
 ### Reported Benefits of offering arts education within the school day:
 
-Positive changes, as reported, included reading and language skills, critical thinking skills, social skills, motivation to learn, and positive school environment. Additionally, respondents added greater self- esteem and self-confidence, which was a prominent answer within the more general question below regarding positive change, as observed by students who have participated in art education classes. (8 respondents)
+Positive changes, as reported, included reading and language skills, critical thinking skills, social skills, motivation to learn, and positive school environment. Additionally, respondents added greater self-esteem and self-confidence, which was a prominent answer within the more general question below regarding positive change, as observed by students who have participated in art education classes. (8 respondents)
+
+![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_graphic1.png "benefits word collage")
  
 ### Reported Barriers of offering arts education within the school day:
 
