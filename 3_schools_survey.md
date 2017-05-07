@@ -67,6 +67,15 @@ We posed several questions to understand how often non-arts instructors were giv
 | Sacramento City USD    | 1 | 2 | 1 | 19 |
 | Twin Rivers USD        | 2 | 5 | 0 | 13 |
 
+**Ongoing education for non-arts instructors**
+| Percentage by District | Yes | No |
+| ---------------------  |:---:|:---:|
+| Robla USD              | 60% | 40% |
+| Twin Rivers USD        | 60% | 40% |
+| Sacramento City USD    | 27% | 73% |
+| Elk Grove USD          | 26% | 74% |
+| Natomas USD            | 18% | 82% |
+
 Respondents also rated the availability of equipment, supplies and facilities for arts instruction or exposure for their schools:
               
 Principals were asked to describe, on average, how many students at their school in grades K-6 were provided arts exposure during the school day. They were asked to describe these opportunities. Arts exposure for the purpose of this survey was defined as an experience outside formal arts instruction that incorporates purposeful experience and engagement with arts (i.e. performances, field trips, in-class arts projects, etc.).
