@@ -15,7 +15,7 @@ The recommendations are organized by theme and tier; the tier categories are def
 **Tier 3**: Low level of resources and work effort involved to implement these recommendations. 
 
 ## Align
-
+---
 ### Tier 1:
 1. **Arts Advisory Group for Sacramento**: This would be a full collective impact model, including senior leadership representing the districts, the city, the arts non-profits, and the community. Following the collective impact model, they should 1) create a shared agenda and purpose; 2) identify common progress measures and outcome-focused metrics; 3) design mutually-reinforcing activities; 4) create a clear, regular, and transparent process for communication; and fund a backbone organization to serve as a facilitator and manager of the collaborative.
 
@@ -37,7 +37,7 @@ The recommendations are organized by theme and tier; the tier categories are def
 student art. This city is so great at showcasing artists through public art and murals, so it’d be great to see students included in that movement, and it would inspire other students.
 
 ## Leverage
-
+---
 ### Tier 1:
 1. **Arts Lead at every school and at every district**: Hire a dedicated arts lead for each of the five districts in the region, as well as for each school within those districts. The district level arts leads will be responsible for organizing the various offerings in the region and securing the necessary funding (pushing art into the schools); each school- level arts lead will be responsible for advocating for his/her school and bringing specific projects in (pulling art into the school).
 
@@ -62,7 +62,7 @@ about what they offer and their contact info).
 4. **Point-person at every school for arts related issues**: Consider utilizing a current staff member at each school to be the designated “art lead” (the go-to person for all things art related). This will be the person a district-level arts lead can contact, and someone who can coordinate with outside arts providers.
 
 ## Learn
-
+---
 ### Tier 1:
 1. **Arts Ed Study mission**: Organize arts providers, principals, arts leads, etc. for a trip to another city to learn and see first-hand how they do what they do.
 
