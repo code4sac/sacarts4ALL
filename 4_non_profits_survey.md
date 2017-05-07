@@ -71,7 +71,7 @@ Of the 46 organizations that participated in the survey, 16 responded that they 
 | Sacramento Metropolitan Arts Commission | 3 | 100-300/day |
 | Sojourner Truth Museum | 2 | 40/day |
 
-**School Districts Affected**
+**School Districts **
 
 | Organization | Elk Grove | Natomas | Robla | Sacramento City | Twin Rivers |
 | -----------  |:---------:|:-------:|:-------:|:-------:|:-------:|
@@ -84,9 +84,22 @@ Of the 46 organizations that participated in the survey, 16 responded that they 
 | Sacramento Metropolitan Arts Commission | x | | x | x | x |
 | Sojourner Truth Museum | | | | x | |
 
+**Art Themes Covered**
+
+| Organization | Dance | Literary | Music | Theatre | Visual | No Response |
+| -----------  |:-----:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| B Street Theater  |  |      x   |         |    x     |         |         |
+| Crocker Art Museum | x |        |    x     |    x     |    x     |         |
+| Davis Arts Center  | |         |         |         |         |   x      |
+| Fairy Tale Town    | |         |         |         |         |    x    |
+| Roseville Theater Arts Company | |     x    |         |    x     |         |         |
+| Sacramento Children's Museum | |         |    x     |         |   x      |         |
+| Sacramento Metropolitan Arts Commission | x|     x    |    x     |     x    |   x      |         |
+| Sojourner Truth Museum | |      |         |         |     x    |         |
 
 
-### Arts Instruction Beyond the School day:**
+
+### Arts Instruction Beyond the School day:
 
 Collectively, 23 survey respondents are serving 21,570 students annually (though unknown what percent of these students are cross enrolled in programs). The majority of arts nonprofits offering non- school hours programming during the school year either offer it one day per week, or five days per week.
 
