@@ -113,18 +113,22 @@ students.
 **ARTS EDUCATION**
 
 *Overview*
+
 Arts education solves problems. Years of research show that it's closely linked to academic achievement, social and
 emotional development, civic engagement, and equitable opportunity.
 
 *Americans for the Arts*
+
 Research shows impressive benefits of arts education on entire school culture—especially student motivation,
 attitudes, and attendance. Numerous reports discuss the ways that increased access and involvement in arts
 education encourage students to stay in school, succeed in school, succeed in life, and succeed in work.
 
 *Edutopia*
+
 Involvement in the arts is associated with gains in math, reading, cognitive ability, critical thinking, and verbal skill.
 
 *Daily Signal*
+
 In response to Obama’s “Educate to Innovate campaign, which included funding for more than 100k STEM
 teachers over the next decade, academic leaders agreed that “A” for “arts and humanities” should be added to
 create STEAM education.
@@ -135,11 +139,13 @@ engineering, and math.
 **ARTS EXPOSURE**
 
 *Overview*
+
 Exposure equals Access. Culturally enriching experiences like the arts, not only produce educational benefits, but
 promote major gains in children’s confidence, persistence, collaboration, motivation, tolerance, empathy, and a
 greater sense of community.
 
 *The Daily Signal*
+
 Once the great equalizer in terms of access to arts and culture in public schools, cultural field trips were viewed as
 central to a school’s educational mission. With continued budget cuts and lack of funding, less-advantaged
 students are less likely to have these experiences, while more advantaged families expose their children to cultural
@@ -149,6 +155,7 @@ When give access to art exposure, students from rural or high-poverty areas ofte
 historical recall, desire, and interest.
 
 *Edutopia*
+
 From Mozart for babies, to tutus for toddlers, to family trips to the museum, children of affluent, aspiring parents
 generally get exposed to the arts whether or not public schools provide them.
 
@@ -158,6 +165,7 @@ behind.
 Access equals a more level playing field with children who have enrichment experiences and opportunities.
 
 *Huffington Post*
+
 Arts exposure or access at a very young age fosters creativity, encourages tolerance of diverse populations, and
 promotes use of creative outlets for expressing emotions
 
@@ -195,6 +203,7 @@ promotes use of creative outlets for expressing emotions
 <http://sacprepmusic.com/>
 
 **2009 Washington State and Washington State Arts Commission Study**
+
 All Washington K–12 principals were invited to participate in an online survey about arts education in their schools.
 A total of 478 principals participated, providing information about curriculum, funding, and other factors that
 impact teaching and learning in the arts. Here is a manifesto that they created that tells a story and presents an
@@ -203,6 +212,7 @@ action plan.
 <http://www.arts.wa.gov/media/dynamic/docs/Booklet-Arts-Education-Research-Initiative.pdf>
 
 **Kennedy Center Information**
+
 The pdf report summarizes their design and methodology. This is where they felt there were gaps. Most likely
 since it was all quantitative research (surveys). Supplementing with qualitative research is where they feel we will
 gain the missing information (the principal interviews) and be able to tell the whole story.
@@ -216,6 +226,7 @@ Final report: <http://education.kennedy-center.org/pdf/AGC_EvaluationReportSumma
 <http://www.portlandoregon.gov/revenue/60079>
 
 **Twin River Arts Education:**
+
 Reports for Two Federal Grants
 
 <https://vapa-trusd-ca.schoolloop.com/smart>
@@ -225,6 +236,7 @@ Reports for Two Federal Grants
 <http://www.twinriversusd.org/assets/external/drive4arts-executive-summary.pdf>
 
 **[Every Student Succeeds Act (ESSA)](https://www.ed.gov/essa?src=rn)** - Signed in December 2015
+
 School districts around the country are shifting their focus from teaching only core academic
 subjects to providing all students with a well-rounded education that includes instruction in arts
 and music.
@@ -283,6 +295,7 @@ principal (or designee) that assesses where and how arts resources and supplies 
 in a school.
 
 **HOW DOES THE ARTS EQUITY INDEX (AEI) BENEFIT SCHOOLS?**
+
 The goal is for all LAUSD schools to be at a Level 4 (Developing) or higher within three years.
 Each school year, steps are taken to provide more equity of arts resource allocation based on
 the assigned level, and to insure that all students have appropriate arts access and instruction.
@@ -304,6 +317,7 @@ the assigned level, and to insure that all students have appropriate arts access
 * Title I
 
 **MIXED RESULTS**
+
 In 2012, Los Angeles Unified school board members made arts instruction a core subject,
 designating it as important as subjects like math and English. The move was aimed at getting the
 arts to every student in the district, and it won applause from arts supporters around the country.
