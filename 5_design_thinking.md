@@ -26,6 +26,8 @@ them. The participants used their mobile phones to make the submissions. Based o
 that were submitted, the word cloud was automatically produced. The words that appear bigger
 in size are the words that were submitted more frequently. 
 
+![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_graphic2.png "art meaning word collage")
+
 Following this exercise we asked participants to create a drawing that captures what art means to
 them in a visual form. The drawings were then pinned at the wall and we asked the participants
 to share with the group what their drawing represents.
