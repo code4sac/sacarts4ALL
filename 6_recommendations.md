@@ -91,5 +91,5 @@ The recommendations are organized by theme and tier as outlined above.
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/design_thinking">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/recommendations">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/appendix_a">Next &raquo;</a>
 </div>
