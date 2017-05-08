@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Appendix C - K-6 Arts Assessment (Principals) Survey Results
-permalink: /k-6_assessment/
+permalink: /k_6_assessment/
 ---
 
 # Appendix C: K-6 Arts Assessment (Principals) Survey Results
