@@ -16,11 +16,28 @@ title: Executive Summary
 
 **-Mr. David Gordon, Sacramento County Superintendent of Schools** 
 
-![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_photo5.jpg "art")Simply stated, arts education solves problems. Countless research studies and documentation not only suggest, but prove, that learning outcomes, gains in confidence, collaboration, empathy, and a greater sense of community dramatically increase with arts education. Equity and access can be the main drivers or inhibitors to a child’s exposure to the arts. As one of the most racially diverse cities in the US, there’s no doubt that a community as rich in culture and history as Sacramento, places high importance on equity. Thus far, the County of Sacramento’s Office of Education in conjunction with the mayor’s office and local organizations has had numerous initiatives and partnerships in place to continue to support, grow and innovate arts education for our region (i.e. Arts Forum, PAL Award, California County Superintendents Educational Services Association, Convention and Cultural Services, and Sacramento Metropolitan Arts Commission (SMAC), to name a few). With all of these efforts in place, arts education for K-6 students in our region still has much room to grow and improve!
+![SacArts4ALL]({{ site.baseurl }}/assets/images/NELP_photo5.jpg "art")
+
+Simply stated, arts education solves problems. Countless research studies and documentation not only suggest, but prove, that learning outcomes, gains in confidence, collaboration, empathy, and a greater sense of community dramatically increase with arts education. Equity and access can be the main drivers or inhibitors to a child’s exposure to the arts. 
+
+As one of the most racially diverse cities in the US, there’s no doubt that a community as rich in culture and history as Sacramento, places high importance on equity. To support the growth and innovation of arts education, the County of Sacramento’s Office of Education, in conjunction with the mayor’s office and local organizations, has implemented numerous initiatives and partnerships, including Arts Forum, PAL Award, California County Superintendents Educational Services Association, Convention and Cultural Services, and Sacramento Metropolitan Arts Commission (SMAC). 
+
+While the Sacramento USD is committed to reducing the academic achievement gap and ensuring all students have equal access to opportunities, there’s still room to grow and improve. This assessment will uncover the current arts in education landscape of K-6 students in Sacramento USD, and reveal areas to affect a positive transformation.
 
 ## Background
 
-In order to further understand and assess the arts education landscape, including opportunities and challenges for the Sacramento region, Mayor Steinberg’s office and the Convention and Cultural Services partnered with the Nehemiah Emerging Leaders Program (NELP) Class VIII for their class project. Early on, the following school districts were identified to research: Sacramento, Elk Grove, Twin Rivers, Robla and Natomas Unified. The specific focus was placed on grades K-6, assessing the ways in which these students are receiving direct arts instruction and/or participating in arts exposure activities during and outside of school. Meetings were held with key stakeholders, including: Dennis Mangers, Jody Ulich, Lennee Eller, Shelly Willis, Steve Winlock, Jackie White, Li Ezzell, Kelly Rivas, and the respective district superintendents.
+To understand and assess the arts education landscape, including opportunities and challenges for the Sacramento region, Mayor Steinberg’s office and the Department of Convention and Cultural Services (CCS) partnered with the Nehemiah Emerging Leaders Program (NELP) Class VIII for its class project. To determine the project scope, five school districts were identified to research: Sacramento City, Elk Grove, Twin Rivers, Robla, and Natomas. The specific focus was placed on grades K-6, assessing the ways in which students receive or are exposed to direct arts instruction or activities during and outside of school. Although there is a plethora of information and data on arts education, there was a lack of recent and relevant local information on the reach and scope of K-6 arts education for Sacramento. 
+
+To fully understand and define the scope, meetings with key stakeholders, as well as some one-on-one interviews with members of the arts community were held. This included: Dennis Mangers, Jody Ulich, Lennee Eller, Shelly Willis, Steve Winlock, Jackie White, Li Ezzell, Kelly Rivas, Kathy Fleming, as well as the respective district superintendents. These meetings assisted in laying the foundation for our understanding of the data collection goals, which included:  
+
+1. Understand what is happening in local arts education at a school level (frequency, type, barriers to and successes from arts education).
+
+2. Determine trends in the K-6 arts education space, particularly around arts opportunities available for students. 
+
+3. Identify successes from individual schools or districts that could be easy wins for other schools / districts. 
+
+4. Provide context and an explanation of opportunities for schools / districts to increase arts education opportunities for students.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yUh6sYJOwrU?ecver=1" frameborder="0" allowfullscreen></iframe>
 
