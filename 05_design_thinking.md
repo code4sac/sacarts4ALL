@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design Thinking Sessions
+title: Results - Design Thinking Sessions
 permalink: /design_thinking/
 ---
 # Design Thinking Sessions
