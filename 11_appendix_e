@@ -1,0 +1,14 @@
+---
+layout: page
+title: Appendix E - Design Thinking Session
+permalink: /appendix_e/
+---
+
+# Appendix E: Design Thinking Session
+
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="{{ site.baseurl }}/appendix_d">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/appendix_f">Next &raquo;</a>
+</div>
