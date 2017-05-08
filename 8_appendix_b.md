@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Appendix B - Research
-permalink: /research/
+title: Appendix B - Secondary Research
+permalink: /appendix_b/
 ---
 
-# Appendix B: Research
+# Appendix B: Secondary Research
 
 ## NELP Arts Assessment Research Summary
 
@@ -341,6 +341,6 @@ Still, across the district, there are signs of improvement. Forty-five new art t
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/fellows_list">&laquo; Prev</a>
-  <span class="pagination-item newer" href="{{ site.baseurl }}/k_6_assessment">Next &raquo;</span>
+  <a class="pagination-item older" href="{{ site.baseurl }}/appendix_a">&laquo; Prev</a>
+  <span class="pagination-item newer" href="{{ site.baseurl }}/appendix_c">Next &raquo;</span>
 </div>
