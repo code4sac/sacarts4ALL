@@ -342,5 +342,5 @@ Still, across the district, there are signs of improvement. Forty-five new art t
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/fellows_list">&laquo; Prev</a>
-  <span class="pagination-item newer">Next &raquo;</span>
+  <span class="pagination-item newer" href="{{ site.baseurl }}/k_6_assessment">Next &raquo;</span>
 </div>
