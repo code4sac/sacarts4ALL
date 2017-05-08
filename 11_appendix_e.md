@@ -67,6 +67,10 @@ You may [access participants’ video testimonials](https://pagliere.smugmug.com
 
 Design thinking is an **ideology supported by an accompanying process**. The design-thinking ideology asserts that a hands-on, user-centric approach to problem solving can lead to innovation. This hands-on, user-centric approach is defined by the design-thinking process and comprises 6 distinct phases, as defined and illustrated below.
 
+![SacArts4ALL]({{ site.baseurl }}/assets/images/designthinking_illustration_final-01-01.png "design process graphic")
+
+*illustration from https://www.nngroup.com/articles/design-thinking/
+
 The design-thinking framework follows an overall flow of: 
 
 1) understand 
