@@ -2,8 +2,8 @@
 title:            SacArts4ALL
 tagline:          'SacArts4ALL'
 description:      ‘SacArts4ALL’
-url:              'https://tedfitzpatrick.github.io/sacarts4ALL'
-baseurl:          'https://tedfitzpatrick.github.io/sacarts4ALL'
+url:              'http://sacarts4all.org/'
+baseurl:          'http://sacarts4all.org/'
 
 author:
   name:           'SacArts4ALL'
@@ -13,4 +13,4 @@ author:
 version:          1.1 | May 2017
 
 github:
-  repo:           https://github.com/tedfitzpatrick/sacarts4ALL
+  repo:           https://github.com/code4sac/sacarts4all
