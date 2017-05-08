@@ -2,8 +2,8 @@
 title:            SacArts4ALL
 tagline:          'SacArts4ALL'
 description:      ‘SacArts4ALL’
-url:              'http://sacarts4all.org/'
-baseurl:          'http://sacarts4all.org/'
+url:              'http://sacarts4all.org'
+baseurl:          'http://sacarts4all.org'
 
 author:
   name:           'SacArts4ALL'
