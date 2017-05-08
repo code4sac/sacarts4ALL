@@ -5,21 +5,23 @@ permalink: /fellows_list/
 ---
 # Appendix A: Class VIII Fellows List
 
-* Bree Cahill, SVP
-* Simi Claire, Pumco Inc.
+* Bree Cahill, Sacramento Venture Partners
+* Simi Claire, Pumco Inc./Manroop Purewal Esq.
 * Lori Fuller, UC Davis
 * Patrick Guild, Valley Vision
-* Jeannie Howell, SCRF
+* Jeannie Howell, Sacramento Community Regional Foundation
 * Jonathan Kauffman, Third Plateau
 * Michael Lynch, Improve Your Tomorrow
-* Robert Mendoza,
-* Santosh Mishra,
-* Guy Ollison, SCUSD
+* Robert Mendoza, Smart Reach Digital
+* Santosh Mishra, Independent Consultant/Chemical Scientist
+* Guy Ollison, Sacramento City Unified School District
 * Tara Porter, SMUD
-* Jordan Powell, American River Foundation Parkway Kiara Reed, Comstock’s
+* Jordan Powell, American River Foundation Parkway
+* Kiara Reed, Comstock’s
 * Sara Reed, UC Davis
-* Koi Rivers,
-* Tamara Srzentic
+* Koi Rivers, KRēD
+* Tamara Srzentic, California Department of Public Health
+
 
 <!-- Pagination -->
 <div class="pagination">
