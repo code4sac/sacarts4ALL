@@ -6,7 +6,7 @@ permalink: /schools_survey/
 
 #  Survey: School Principals
 
-**Principals**: To understand the current state of K-8 arts education in Sacramento County, we surveyed all principals serving in K-8t grade schools across five school districts: Sacramento City (SCUSD), Elk Grove (EGUSD), Twin Rivers (TRUSD), Robla (RSD), and Natomas (NUSD). Principals (or school-level leads) were asked various questions about current availability of arts education, barriers to arts education, and quantity of opportunities provided to students. In total, 55% of surveys were completed across all districts (78 responses). 
+To understand the current state of K-8 arts education in Sacramento County, we surveyed all principals serving in K-8t grade schools across five school districts: Sacramento City (SCUSD), Elk Grove (EGUSD), Twin Rivers (TRUSD), Robla (RSD), and Natomas (NUSD). Principals (or school-level leads) were asked various questions about current availability of arts education, barriers to arts education, and quantity of opportunities provided to students. In total, 55% of surveys were completed across all districts (78 responses). 
   
 | School District | Total Schools | Total Participated | Percent  |
 | -------  |:-------------:|:------------------:|:--------:|
