@@ -6,7 +6,7 @@ permalink: /executive_summary/
 
 ![SacArts4ALL]({{ site.baseurl }}/assets/images/logoNELP.JPG "Nehemiah Emerging Leaders Program")
 
-### Class VIII Project Presentation for<br/>The City of Sacramento<br/>Convention and Cultural Services (CCS)<br/>and<br/>The Office of Mayor Darrell Steinberg 
+### Class VIII Project Presentation for<br/>The City of Sacramento<br/>Convention and Cultural Services (CCS) and<br/>The Office of Mayor Darrell Steinberg 
 
 
 # Executive Summary<br/><em>Sacramento K-6 Arts Assessment</em> 
@@ -41,7 +41,7 @@ To fully understand and define the scope, meetings with key stakeholders, as wel
 4. Provide context and an explanation of opportunities for schools / districts to increase arts education opportunities for students.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yUh6sYJOwrU?ecver=1" frameborder="0" allowfullscreen></iframe> 
+ 
 
 <!-- Pagination -->
 <div class="pagination">
