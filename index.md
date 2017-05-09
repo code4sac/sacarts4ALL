@@ -6,7 +6,7 @@ title: SacArts4ALL
 <h1 style="color:red;">Sacramento Arts for All &mdash;<br/>Align | Leverage | Learn</h1>
 ![Art]({{ site.baseurl }}/assets/images/NELP_photo6.png "art")
 
-###How might we bring art to every child in Sacramento? 
+<h3>How might we bring art to every child in Sacramento?</h3> 
 
 The story of arts education in the Sacramento Region starts and ends with a child.  Their unchained imagination can lead to places — as the saying goes —“that only dreams are made of.”  With this in mind Mayor Steinberg’s office, the Sacramento Convention and Cultural Services partnered with Nehemiah Emerging Leaders Program (NELP) Class VIII to explore the status of arts education in the region to determine if every child, had the opportunity to dream through exposure to art in school and their community.
 
