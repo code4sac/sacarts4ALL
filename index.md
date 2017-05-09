@@ -26,8 +26,8 @@ The Department of Cultural Services (CSS) and<br/>The Office of Mayor Darrell St
 
 Council Chamber, City Hall<br/>Sacramento, CA<br/>May 9, 2017
 
-
-
+<br/><br/>
+<a href="https://twitter.com/SacArts4ALL"><img src="{{ site.baseurl }}/assets/images/iconTwitter243x206.png" alt="twitter" height="42" width="42"></a>
 
 
 
