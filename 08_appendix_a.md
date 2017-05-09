@@ -25,6 +25,6 @@ permalink: /appendix_a/
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/recommendations">&laquo; Prev</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/learn">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/appendix_b">Next &raquo;</a>
 </div>
