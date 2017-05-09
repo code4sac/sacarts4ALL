@@ -128,12 +128,17 @@ h1, h2, h3, h4, h5, h6 {
     display: none;
   }
   
+  
+  .masthead-title a {
+  color: #FFF;
+}
+  
   .masthead {
  
   
  
- background-size: 337px 66px;
- background-position:right -72px top 0px;	 
+/* background-size: 337px 66px;
+ background-position:right -72px top 0px;	 */
   
 }
   

@@ -4,7 +4,7 @@ title: Executive Summary
 permalink: /executive_summary/
 ---
 
-![SacArts4ALL]({{ site.baseurl }}/assets/images/logoNELP.JPG "Nehemiah Emerging Leaders Program")
+![Nehemiah Emerging Leaders Program]({{ site.baseurl }}/assets/images/logoNELP.JPG "Nehemiah Emerging Leaders Program")
 
 ### Class VIII Project Presentation for<br/>The City of Sacramento<br/>Convention and Cultural Services (CCS) and<br/>The Office of Mayor Darrell Steinberg 
 
