@@ -16,7 +16,7 @@ Council Chamber, City Hall<br/>Sacramento, CA<br/>May 9, 2017
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yUh6sYJOwrU?ecver=1" frameborder="0" allowfullscreen></iframe>
+
 
 <!-- Pagination -->
 <div class="pagination">
