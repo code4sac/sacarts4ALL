@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn
-permalink: /Learn/
+permalink: /learn/
 ---
 
 # Learn
