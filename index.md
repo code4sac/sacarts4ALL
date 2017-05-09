@@ -3,9 +3,15 @@ layout: default
 title: SacArts4ALL
 ---
 
-## Home
+## Arts for ALL &mdash; Align | Leverage | Learn
 
+An assessment of K-6 arts education<br/>Nehemiah Emerging Leaders Program (NELP), Class VIII
 
+Prepared for:
+
+The Department of Cultural Services (CSS) and<br/>The Office of Mayor Darrell Steinberg
+
+Council Chamber, City Hall<br/>Sacramento, CA<br/>May 9, 2017
 
 
 
