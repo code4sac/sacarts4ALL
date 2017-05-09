@@ -3,10 +3,12 @@ layout: default
 title: SacArts4ALL
 ---
 
-## Arts for ALL &mdash; Align | Leverage | Learn
-
+<h1 style="color:red;">Arts for ALL &mdash; Align | Leverage | Learn</h1>
+<br/>
+![Art]({{ site.baseurl }}/assets/images/NELP_photo6.png "art")
+<br/>
 An assessment of K-6 arts education<br/>Nehemiah Emerging Leaders Program (NELP), Class VIII
-
+<br/><br/><br/><br/><br/>
 Prepared for:
 
 The Department of Cultural Services (CSS) and<br/>The Office of Mayor Darrell Steinberg
