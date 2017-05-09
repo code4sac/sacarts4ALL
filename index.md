@@ -16,7 +16,7 @@ Help raise awareness <a href="https://twitter.com/SacArts4ALL">#SacArts4All</a>
 
 
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 An assessment of K-6 arts education<br/>Nehemiah Emerging Leaders Program (NELP), Class VIII
 
@@ -27,10 +27,10 @@ The Department of Cultural Services (CSS) and<br/>The Office of Mayor Darrell St
 Council Chamber, City Hall<br/>Sacramento, CA<br/>May 9, 2017
 
 <br/><br/>
-<a href="https://www.instagram.com/sacarts4all"><img src="{{ site.baseurl }}/assets/images/iconInstagram228x217.png" alt="instagram" height="42" width="42"></a>
-<a href="https://twitter.com/SacArts4ALL"><img src="{{ site.baseurl }}/assets/images/iconTwitter243x206.png" alt="twitter" height="42" width="42"></a>
-<a href="https://www.facebook.com/groups/349470948784549/"><img src="{{ site.baseurl }}/assets/images/iconFacebook219x213.png" alt="facebook" height="42" width="42"></a>
-<a href="https://www.youtube.com/watch?v=SNa4v4lMLPY&feature=youtu.be"><img src="{{ site.baseurl }}/assets/images/iconYouTube234x234.png" alt="youtube" height="42" width="42"></a>
+<a href="https://www.instagram.com/sacarts4all" style="display:inline-block;"><img src="{{ site.baseurl }}/assets/images/iconInstagram228x217.png" alt="instagram" height="42" width="42"></a>
+<a href="https://twitter.com/SacArts4ALL" style="display:inline-block;"><img src="{{ site.baseurl }}/assets/images/iconTwitter243x206.png" alt="twitter" height="42" width="42"></a>
+<a href="https://www.facebook.com/groups/349470948784549/" style="display:inline-block;"><img src="{{ site.baseurl }}/assets/images/iconFacebook219x213.png" alt="facebook" height="42" width="42"></a>
+<a href="https://www.youtube.com/watch?v=SNa4v4lMLPY&feature=youtu.be" style="display:inline-block;"><img src="{{ site.baseurl }}/assets/images/iconYouTube234x234.png" alt="youtube" height="42" width="42"></a>
 
 
 
