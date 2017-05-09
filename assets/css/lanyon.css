@@ -123,6 +123,9 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
+	text-shadow: 0px 0px 5px rgba(255, 255, 255, 1);
+	outline: 1px solid #FFF;
+outline-offset: 0px;
   }
   .masthead-title small {
     display: none;
@@ -130,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
   
   
   .masthead-title a {
-  color: #FFF;
+  /*color: #FFF;*/
 }
   
   .masthead {
