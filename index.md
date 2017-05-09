@@ -3,7 +3,7 @@ layout: default
 title: SacArts4ALL
 ---
 
-<h1 style="color:red;">Arts for ALL &mdash; Align | Leverage | Learn</h1>
+<h1 style="color:red;">Sacramento Arts for All &mdash; Align | Leverage | Learn</h1>
 ![Art]({{ site.baseurl }}/assets/images/NELP_photo6.png "art")
 An assessment of K-6 arts education<br/>Nehemiah Emerging Leaders Program (NELP), Class VIII
 <br/><br/><br/><br/><br/>
