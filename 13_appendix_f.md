@@ -6,6 +6,12 @@ permalink: /appendix_f/
 
 # Appendix F: Social Media Campaign
 
+Want to learn more? Want to know how can you get involved?
+
+To learn more about Sacramento Arts Education assessment effort and further explore data,
+key findings as well as the opportunities on how to engage to help improve and evolve this
+space, browse #SacArts4All key findings and opportunities hub/manifesto.
+
 
 <!-- Pagination -->
 <div class="pagination">
