@@ -15,6 +15,6 @@ space, browse #SacArts4All key findings and opportunities hub/manifesto.
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/appendix_d">&laquo; Prev</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/appendix_e">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/index">Next &raquo;</a>
 </div>
