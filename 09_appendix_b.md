@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Appendix B - Secondary Research
+title: Appendix B - Research
 permalink: /appendix_b/
 ---
 
-# Appendix B: Secondary Research
-
-## NELP Arts Assessment Research Summary
+# Appendix B: Research
 
 ### Research on arts impact on academic achievement
 
