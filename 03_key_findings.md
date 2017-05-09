@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Methodology
-permalink: /methodology/
+title: Key Findings
+permalink: /key_findings/
 ---
 
-# Methodology
+# Key Findings
 
 The following methodologies were used to conduct research and collect data:
 
@@ -45,6 +45,6 @@ More than 60 people were invited to a Design Thinking session, held on Saturday,
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/secondary_research">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/methodology">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/recommendations">Next &raquo;</a>
 </div>

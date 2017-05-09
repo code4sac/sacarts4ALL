@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Recommendations
-permalink: /recommendations/
+title: Align
+permalink: /align/
 ---
 
 # Recommendations
@@ -90,6 +90,6 @@ The recommendations are organized by theme and tier as outlined above.
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/design_thinking">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/appendix_a">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/recommendations">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/leverage">Next &raquo;</a>
 </div>
