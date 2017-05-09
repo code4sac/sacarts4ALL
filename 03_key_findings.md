@@ -18,16 +18,16 @@ permalink: /key_findings/
 ## What are the key trends and best practices in K-6 arts education?
 * Overall, research shows that arts education is aligned with 21st Century learning outcomes, including an integrated approach to learning/teaching, innovative skills building, creativity and critical thinking skills, and collaboration.
 * There are four key factors of quality arts education:
-1. Student learning – what students are actually doing in the classroom, the kinds of projects and tasks they’re involved in, the focus and character of their engagement, and the attitudes and mindsets they bring to the learning experience.
-2. Pedagogy – how teachers conceive of and practice their craft, how they conceptualize their role in the classroom, and how they design and implement instruction.
-3. Community dynamics – the social dimension of the relationships in the classroom or other arts learning setting, relationships among the students themselves, between students and teachers, and among the teachers and other adults who interact with students in the classroom.
-4. Environment – the tangible and concrete elements, including the physical space of the classroom, the material resources available, as well as the time students receive (hours and years) to engage in arts learning.
+<strong>1. Student learning –</strong> what students are actually doing in the classroom, the kinds of projects and tasks they’re involved in, the focus and character of their engagement, and the attitudes and mindsets they bring to the learning experience.
+<strong>2. Pedagogy –</strong> how teachers conceive of and practice their craft, how they conceptualize their role in the classroom, and how they design and implement instruction.
+<strong>3. Community dynamics –</strong> the social dimension of the relationships in the classroom or other arts learning setting, relationships among the students themselves, between students and teachers, and among the teachers and other adults who interact with students in the classroom.
+<strong>4. Environment –</strong> the tangible and concrete elements, including the physical space of the classroom, the material resources available, as well as the time students receive (hours and years) to engage in arts learning.
 * The California VAPA Framework outlines the five strands of a gold standard arts program:
-1. Artistic perception – Students use language and the skills unique to visual arts, theater, dance and music to analyze and respond to sensory information.
-2. Creative expression – Students create and/or perform their own work and communicate the intent of meaning of their work.
-3. Historical and cultural context – In learning an art discipline, the students work towards understanding the historical and cultural contributions within the discipline.
-4. Aesthetic valuing - Students learn to critically assess and derive meaning.
-5. Connections, relationships, and applications – Making connections from one art discipline to other arts.
+<strong>1. Artistic perception –</strong> Students use language and the skills unique to visual arts, theater, dance and music to analyze and respond to sensory information.
+<strong>2. Creative expression –</strong> Students create and/or perform their own work and communicate the intent of meaning of their work.
+<strong>3. Historical and cultural context –</strong> In learning an art discipline, the students work towards understanding the historical and cultural contributions within the discipline.
+<strong>4. Aesthetic valuing -</strong> Students learn to critically assess and derive meaning.
+<strong>5. Connections, relationships, and applications –</strong> Making connections from one art discipline to other arts.
 * Though there is often debate and contention about the value of arts exposure as opposed to arts education, both are vital components to an effective arts program.
 * The most effective school-based arts education programs require alignment and coordination between the school districts, the city, and the community.
 * LAUSD has a dedicated Arts Education Branch charged with ensuring all K-12 students are exposed to arts during the school day, and it brings together city funding, resources from community partners, local volunteer artists and arts providers, and outside funding. It uses an Arts Equity Index to track and monitor access and equity issues related to its offerings.
