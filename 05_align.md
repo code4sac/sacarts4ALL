@@ -4,7 +4,7 @@ title: Align
 permalink: /align/
 ---
 
-# Recommendations
+# Align
 
 **Arts for ALL**
 

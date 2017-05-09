@@ -4,7 +4,7 @@ title: Leverage
 permalink: /leverage/
 ---
 
-# Recommendations
+# Leverage
 
 **Arts for ALL**
 
