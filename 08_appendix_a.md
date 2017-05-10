@@ -9,14 +9,14 @@ permalink: /appendix_a/
 * Simi Claire, Pumco Inc./Manroop Purewal Esq.
 * Lori Fuller, UC Davis
 * Patrick Guild, Valley Vision
-* Jeannie Howell, Sacramento Community Regional Foundation
+* Jeannie Howell, Sacramento Region Community Foundation
 * Jonathan Kauffman, Third Plateau
 * Michael Lynch, Improve Your Tomorrow
 * Robert Mendoza, Smart Reach Digital
 * Santosh Mishra, Independent Consultant/Chemical Scientist
 * Guy Ollison, Sacramento City Unified School District
 * Tara Porter, SMUD
-* Jordan Powell, American River Foundation Parkway
+* Jordan Powell, American River Parkway Foundation
 * Kiara Reed, Comstock’s
 * Sara Reed, UC Davis
 * Koi Rivers, KRēD
