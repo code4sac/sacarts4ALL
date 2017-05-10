@@ -10,7 +10,10 @@ Want to learn more? Want to know how can you get involved?
 
 To learn more about Sacramento Arts Education assessment effort and further explore data,
 key findings as well as the opportunities on how to engage to help improve and evolve this
-space, browse #SacArts4All key findings and opportunities hub/manifesto.
+space, browse [#SacArts4All key findings and opportunities hub/manifesto](http://sacarts4all.org/).
+
+Instagram: sacarts4all
+Twitter: @SacArts4All
 
 
 <!-- Pagination -->
