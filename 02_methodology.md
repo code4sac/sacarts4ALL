@@ -17,16 +17,26 @@ To answer these questions, the NELP fellows relied on interviews, field research
 ## Interviews
 
 NELP fellows conducted interviews with the following individuals:
+
 * <strong>Jose Banda,</strong> Superintendent at Sacramento City Unified School District
 * <strong>Lennee Eller,</strong> Cultural Service Program Manager at Department of Convention and Cultural Service
 * <strong>Chris Evans,</strong> Superintendent at Natomas Unified School District
 * <strong>Li Ezzell,</strong> Visual and Performing Arts Coordinator at SCUSD
-* <strong>Kathy Fleming,</strong> Executive Director at Fairytale Town* Christopher Hoffman, Superintendent at Elk Grove Unified School District* Dennis Managers, Senior Advisor to Mayor Darrell Steinberg* Steven Martinez, Superintendent at Twin Rivers Unified School District* Ruben Reyes, Superintendent at Robla School District* Kelly Rivas, Deputy Chief of Staff for Mayor Darrell Steinberg* Jody Ulich, Director at Department of Convention and Cultural Service* Jackie White, Director of Arts and Career Education at Twin Rivers Unified* Shelly Willis, former Executive Director of Sacramento Metropolitan Arts Commission
+* <strong>Kathy Fleming,</strong> Executive Director at Fairytale Town
+* <strong>Christopher Hoffman,</strong> Superintendent at Elk Grove Unified School District
+* <strong>Dennis Managers,</strong> Senior Advisor to Mayor Darrell Steinberg
+* <strong>Steven Martinez,</strong> Superintendent at Twin Rivers Unified School District
+* <strong>Ruben Reyes,</strong> Superintendent at Robla School District
+* <strong>Kelly Rivas,</strong> Deputy Chief of Staff for Mayor Darrell Steinberg
+* <strong>Jody Ulich,</strong> Director at Department of Convention and Cultural Service
+* <strong>Jackie White,</strong> Director of Arts and Career Education at Twin Rivers Unified
+* <strong>Shelly Willis,</strong> former Executive Director of Sacramento Metropolitan Arts Commission
 * <strong>Steve Winlock,</strong> Executive Director at Sacramento County Office of Education
 
 ## Field Research 
 
 To understand the local, regional, and national landscape, secondary research was conducted with a focus on: 
+
 * Quality and Quantity of Arts Education  	
 * The Gold Standard
 * Arts Education vs. Arts Exposure
