@@ -35,6 +35,6 @@ permalink: /key_findings/
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/methodology">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/methodology">Prev &raquo;</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/recommendations">Next &raquo;</a>
 </div>
