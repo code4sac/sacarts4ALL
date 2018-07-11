@@ -3,7 +3,7 @@ title:            SacArts4ALL
 tagline:          'SacArts4ALL'
 description:      ‘SacArts4ALL’
 url:              'http://code4sac.github.io/sacarts4all.org'
-baseurl:          ''
+baseurl:          '/sacarts4all'
 
 author:
   name:           'SacArts4ALL'
